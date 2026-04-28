@@ -38,10 +38,12 @@ jobs:
 
       - name: Package repository
         run: |
+          rm -f /tmp/sfvisual-deploy.tgz
           tar \
             --exclude=".git" \
             --exclude="backend/.env" \
-            -czf sfvisual-deploy.tgz .
+            --exclude="sfvisual-deploy.tgz" \
+            -czf /tmp/sfvisual-deploy.tgz .
 
       - name: Upload package to NAS
         env:
@@ -53,7 +55,7 @@ jobs:
             -o NumberOfPasswordPrompts=1 \
             -o PubkeyAuthentication=no \
             -P "${{ secrets.NAS_PORT }}" \
-            sfvisual-deploy.tgz \
+            /tmp/sfvisual-deploy.tgz \
             "${{ secrets.NAS_USER }}@${{ secrets.NAS_HOST }}:/tmp/sfvisual-deploy.tgz"
 
       - name: Deploy on NAS
