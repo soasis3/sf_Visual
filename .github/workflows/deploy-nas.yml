@@ -30,10 +30,27 @@ jobs:
           DEPLOY_DIR="/volume1/MACARON/RND/SFtools/sfShotManager/app/sfVisual_git"
 
           cd "\$DEPLOY_DIR"
-          git pull origin master
+          if command -v git >/dev/null 2>&1; then
+            GIT_CMD="git"
+          elif [ -x /usr/local/git/bin/git ]; then
+            GIT_CMD="/usr/local/git/bin/git"
+          elif [ -x /usr/local/bin/git ]; then
+            GIT_CMD="/usr/local/bin/git"
+          elif [ -x /usr/bin/git ]; then
+            GIT_CMD="/usr/bin/git"
+          else
+            echo "Git command not found on NAS" >&2
+            exit 127
+          fi
+
+          "\$GIT_CMD" pull origin master
 
           if command -v docker-compose >/dev/null 2>&1; then
             COMPOSE_CMD="docker-compose"
+          elif [ -x /usr/local/bin/docker-compose ]; then
+            COMPOSE_CMD="/usr/local/bin/docker-compose"
+          elif [ -x /usr/bin/docker-compose ]; then
+            COMPOSE_CMD="/usr/bin/docker-compose"
           elif docker compose version >/dev/null 2>&1; then
             COMPOSE_CMD="docker compose"
           else
