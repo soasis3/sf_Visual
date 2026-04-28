@@ -36,15 +36,25 @@ jobs:
             "${{ secrets.NAS_USER }}@${{ secrets.NAS_HOST }}" \
             "echo connected"
 
-      - name: Sync repository to NAS
+      - name: Package repository
+        run: |
+          tar \
+            --exclude=".git" \
+            --exclude="backend/.env" \
+            -czf sfvisual-deploy.tgz .
+
+      - name: Upload package to NAS
         env:
           SSHPASS: ${{ secrets.NAS_PASSWORD }}
         run: |
-          sshpass -e rsync -az --delete \
-            --exclude ".git" \
-            --exclude "backend/.env" \
-            -e "ssh -o PreferredAuthentications=keyboard-interactive,password -o KbdInteractiveAuthentication=yes -o NumberOfPasswordPrompts=1 -o PubkeyAuthentication=no -p ${{ secrets.NAS_PORT }}" \
-            ./ "${{ secrets.NAS_USER }}@${{ secrets.NAS_HOST }}:/volume1/MACARON/RND/SFtools/sfShotManager/app/sfVisual_git/"
+          sshpass -e scp \
+            -o PreferredAuthentications=keyboard-interactive,password \
+            -o KbdInteractiveAuthentication=yes \
+            -o NumberOfPasswordPrompts=1 \
+            -o PubkeyAuthentication=no \
+            -P "${{ secrets.NAS_PORT }}" \
+            sfvisual-deploy.tgz \
+            "${{ secrets.NAS_USER }}@${{ secrets.NAS_HOST }}:/tmp/sfvisual-deploy.tgz"
 
       - name: Deploy on NAS
         env:
@@ -55,7 +65,10 @@ jobs:
           export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
           DEPLOY_DIR="/volume1/MACARON/RND/SFtools/sfShotManager/app/sfVisual_git"
 
+          mkdir -p "\$DEPLOY_DIR"
           cd "\$DEPLOY_DIR"
+          tar xzf /tmp/sfvisual-deploy.tgz -C "\$DEPLOY_DIR"
+
           if command -v docker-compose >/dev/null 2>&1; then
             COMPOSE_CMD="docker-compose"
           elif [ -x /usr/local/bin/docker-compose ]; then
@@ -76,4 +89,6 @@ jobs:
             \$COMPOSE_CMD up -d --build
             \$COMPOSE_CMD ps
           fi
+
+          rm -f /tmp/sfvisual-deploy.tgz
           EOF
