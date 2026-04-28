@@ -2,8 +2,8 @@
 
 ## Target URL
 
-- App: `https://storyfarm1.synology.me:5006/sfvisual/`
-- API: `https://storyfarm1.synology.me:5006/api/v1/`
+- App: `https://storyfarm1.synology.me:7000/sfvisual/`
+- API: `https://storyfarm1.synology.me:7000/api/v1/`
 
 ## Minimal NAS layout
 
@@ -68,9 +68,45 @@ From `/volume1/MACARON/RND/SFtools/sfShotManager/app/sfVisual`:
 docker-compose up -d --build
 ```
 
+## GitHub Actions auto deploy
+
+This repository includes:
+
+- Workflow: `.github/workflows/deploy-nas.yml`
+
+This workflow uses a standard GitHub-hosted Linux runner and deploys to the NAS over SSH.
+
+### One-time setup
+
+1. Create an SSH key pair for GitHub Actions.
+2. Add the public key to the NAS user account's `~/.ssh/authorized_keys`.
+3. In the GitHub repository, open `Settings -> Secrets and variables -> Actions` and add:
+
+- `NAS_HOST`
+- `NAS_PORT`
+- `NAS_USER`
+- `NAS_SSH_KEY`
+
+`NAS_SSH_KEY` should contain the private key text.
+
+### Deploy behavior
+
+On every push to `master`, GitHub Actions will:
+
+1. SSH into the NAS
+2. go to `/volume1/MACARON/RND/SFtools/sfShotManager/app/sfVisual_git`
+3. run `git pull origin master`
+4. run `sudo docker-compose up -d --build`
+
+That means deployment becomes:
+
+```text
+git push -> GitHub Actions -> SSH to NAS -> deploy
+```
+
 ## Reverse proxy
 
-- Source: `HTTPS` / `storyfarm1.synology.me` / `5006`
+- Source: `HTTPS` / `storyfarm1.synology.me` / `7000`
 - Destination: `HTTP` / `127.0.0.1` / `8000`
 
 The FastAPI app serves the frontend at `/sfvisual/` and redirects `/` to `/sfvisual/`.

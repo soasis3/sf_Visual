@@ -1,0 +1,35 @@
+name: Deploy to Synology NAS
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    env:
+      NAS_DEPLOY_DIR: /volume1/MACARON/RND/SFtools/sfShotManager/app/sfVisual_git
+    steps:
+      - name: Configure SSH key
+        run: |
+          mkdir -p ~/.ssh
+          printf '%s\n' "${{ secrets.NAS_SSH_KEY }}" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+
+      - name: Trust NAS host key
+        run: |
+          ssh-keyscan -p "${{ secrets.NAS_PORT }}" "${{ secrets.NAS_HOST }}" >> ~/.ssh/known_hosts
+
+      - name: Deploy on NAS
+        run: |
+          ssh -i ~/.ssh/id_ed25519 -p "${{ secrets.NAS_PORT }}" "${{ secrets.NAS_USER }}@${{ secrets.NAS_HOST }}" <<'EOF'
+          set -e
+          cd "${NAS_DEPLOY_DIR}"
+          git pull origin master
+          sudo docker-compose up -d --build
+          sudo docker-compose ps
+          EOF

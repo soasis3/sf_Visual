@@ -5,6 +5,7 @@ from fastapi import APIRouter, HTTPException, Query
 from fastapi.responses import FileResponse
 
 from app.config import get_settings
+from app.services.google_sheets import GoogleSheetsSyncService
 from app.services.preview_cache import find_cached_preview
 
 
@@ -35,6 +36,11 @@ def read_cached_preview(
     shot_code: str = Query(...),
 ) -> FileResponse:
     preview = find_cached_preview(scene_code, shot_code)
+    if preview is None:
+        try:
+            preview = GoogleSheetsSyncService().ensure_shot_preview_cached(scene_code, shot_code)
+        except Exception:
+            preview = None
     if preview is None:
         raise HTTPException(status_code=404, detail="Preview image not found")
     return FileResponse(preview)

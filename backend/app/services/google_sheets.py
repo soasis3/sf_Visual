@@ -26,7 +26,7 @@ from app.schemas_google import (
     GoogleShotTaskStatus,
 )
 from app.schemas import ShotCreate
-from app.services.preview_cache import cache_preview_bytes, cache_preview_image
+from app.services.preview_cache import cache_preview_bytes, cache_preview_image, find_cached_preview
 from app.services.shot_service import get_shot_by_code
 
 
@@ -233,6 +233,50 @@ class GoogleSheetsSyncService:
                 )
 
         return None
+
+    def ensure_shot_preview_cached(self, scene_code: str, shot_code: str) -> Path | None:
+        normalized_scene_code = self._normalize_scene_code(scene_code)
+        normalized_shot_code = self._normalize_shot_code(normalized_scene_code, shot_code)
+
+        cached = find_cached_preview(normalized_scene_code, normalized_shot_code)
+        if cached is not None:
+            return cached
+
+        scene = self.fetch_scene_shots(normalized_scene_code, force_refresh=False)
+        if scene is None or not scene.shotlist_spreadsheet_id:
+            return None
+
+        scene_shot = next(
+            (
+                shot
+                for shot in (scene.shots or [])
+                if self._normalize_shot_code(normalized_scene_code, shot.shot_code) == normalized_shot_code
+            ),
+            None,
+        )
+        if scene_shot and scene_shot.preview_image_url:
+            cached = cache_preview_image(
+                normalized_scene_code,
+                normalized_shot_code,
+                scene_shot.preview_image_url,
+            )
+            if cached is not None:
+                return cached
+
+        client = self._get_client()
+        spreadsheet = client.open_by_key(scene.shotlist_spreadsheet_id)
+
+        for worksheet in self._detail_worksheets(spreadsheet, normalized_scene_code):
+            cached = self._cache_scene_preview_sheet(
+                spreadsheet.id,
+                worksheet,
+                normalized_scene_code,
+                target_shot_code=normalized_shot_code,
+            )
+            if cached is not None:
+                return cached
+
+        return find_cached_preview(normalized_scene_code, normalized_shot_code)
 
     def warm_scene_cache(self, force_refresh: bool = False) -> dict[str, int]:
         response = self.fetch_scene_list_with_shots(force_refresh=force_refresh)
@@ -625,6 +669,55 @@ class GoogleSheetsSyncService:
             shots.append(shot_summary)
 
         return shots
+
+    def _cache_scene_preview_sheet(
+        self,
+        spreadsheet_id: str,
+        worksheet: gspread.Worksheet,
+        scene_code: str | None,
+        target_shot_code: str | None = None,
+    ) -> Path | None:
+        display_rows = worksheet.get_all_values()
+        if len(display_rows) < 5:
+            return None
+
+        formula_rows = worksheet.get("A1:C400", value_render_option=ValueRenderOption.formula)
+        row_lookup: dict[str, int] = {}
+        for row_index in range(4, len(display_rows)):
+            row = display_rows[row_index]
+            shot_value = self._string_or_none(self._get_by_index(row, 0))
+            if not shot_value or self._contains_omit(shot_value):
+                continue
+            normalized_shot_code = self._normalize_shot_code(scene_code, shot_value)
+            row_lookup[normalized_shot_code] = row_index
+
+            formula_row = formula_rows[row_index] if row_index < len(formula_rows) else []
+            preview_formula = self._get_by_index(formula_row, 1)
+            preview_image_url = self._extract_image_url(preview_formula, self._get_by_index(row, 1))
+            if preview_image_url:
+                cache_preview_image(scene_code, normalized_shot_code, preview_image_url)
+
+        if target_shot_code:
+            cached = find_cached_preview(scene_code or "", target_shot_code)
+            if cached is not None:
+                return cached
+
+        embedded_previews = self._extract_embedded_previews_from_xlsx(
+            spreadsheet_id,
+            worksheet.id,
+            worksheet.title,
+            scene_code,
+            display_rows,
+        )
+        for normalized_shot_code, row_index in row_lookup.items():
+            if row_index not in embedded_previews:
+                continue
+            image_name, image_data = embedded_previews[row_index]
+            cache_preview_bytes(scene_code, normalized_shot_code, image_name, image_data)
+
+        if target_shot_code:
+            return find_cached_preview(scene_code or "", target_shot_code)
+        return None
 
     def _extract_ani_task_statuses(
         self,
