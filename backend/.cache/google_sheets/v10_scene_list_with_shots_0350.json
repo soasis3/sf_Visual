@@ -1,0 +1,384 @@
+{
+  "spreadsheet_title": "TRAP_MAINBOARD_SCHEDULE",
+  "worksheet_title": "sceneList",
+  "scenes": [
+    {
+      "scene_code": "0350",
+      "scene_label": null,
+      "shotlist_name": "TRAP_0350_shotList",
+      "shotlist_url": "https://docs.google.com/spreadsheets/d/1KAW3PVeqXyUB7CGvEXtl82kWDguv2o04ghea-yPWak4/edit?usp=drive_link",
+      "shotlist_spreadsheet_id": "1KAW3PVeqXyUB7CGvEXtl82kWDguv2o04ghea-yPWak4",
+      "compositing_progress": 0.0,
+      "total_shots": 7,
+      "total_minutes": 0.4,
+      "total_seconds": 25.6,
+      "total_frames": 615,
+      "shots": [
+        {
+          "shot_code": "0350_0030",
+          "duration_frames": 20,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "빠르게 진웅에게 \n달려드는 로빈 (약부감)\n(Handheld)",
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.0,
+            "score": 1.0,
+            "staff_days": 0.32,
+            "lead_days": 0.23,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0350_shotList",
+          "source_worksheet_title": "0350_Vis_Review Note"
+        },
+        {
+          "shot_code": "0350_0040",
+          "duration_frames": 125,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "로빈, 진웅에게 달려들면서\n카메라 팔로우 C.U\n진웅 뒤돈다.\n(handheld)\n\n진웅 : (다급하게)\n아까 빨간 스위치!",
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.5,
+            "score": 1.5,
+            "staff_days": 0.48,
+            "lead_days": 0.35,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0350_shotList",
+          "source_worksheet_title": "0350_Vis_Review Note"
+        },
+        {
+          "shot_code": "0350_0080",
+          "duration_frames": 64,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "진웅 : 그동안 위로 올라가느라 바빴지,\n\n로빈 P.O.V (핸드헬드) 열린 해치.",
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "staff_days": 0.4,
+            "lead_days": 0.29,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0350_shotList",
+          "source_worksheet_title": "0350_Vis_Review Note"
+        },
+        {
+          "shot_code": "0350_0085",
+          "duration_frames": 71,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "진웅 단독샷 (싱글 어깨 나올정도의 클로즈업)",
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "staff_days": 0.4,
+            "lead_days": 0.29,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0350_shotList",
+          "source_worksheet_title": "0350_Vis_Review Note"
+        },
+        {
+          "shot_code": "0350_0090",
+          "duration_frames": 59,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "다시 진웅에게 고개 돌린다.\n\n진웅 : 반대로 내려갈 \n생각은 못했었죠.",
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "staff_days": 0.4,
+            "lead_days": 0.29,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0350_shotList",
+          "source_worksheet_title": "0350_Vis_Review Note"
+        },
+        {
+          "shot_code": "0350_0100",
+          "duration_frames": 95,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "해치 아래에서 올려다 본 두 사람.\n\n4F는 뒤돌아 제대로 해치 보고,\n진웅은 해치 쪽 다가온다.\n진웅 : 분명...지하에 탈출할 방법이-",
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "staff_days": 0.4,
+            "lead_days": 0.29,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0350_shotList",
+          "source_worksheet_title": "0350_Vis_Review Note"
+        },
+        {
+          "shot_code": "0350_0110",
+          "duration_frames": 181,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "진웅 : -있을 겁니다.\n\n잠시 정적 후, 진웅 바라보며\n대사하는 로빈.\n\n로빈 : 흥...진짜 마지막 기회야..!\n\n말없이 고개 끄덕이는 진웅.\n진웅 더 나아가려 하면 \n로빈이 손으로 막는다.\n로빈 천천히 해치 쪽으로 \n고개 돌리며 이동한다.",
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.75,
+            "score": 1.75,
+            "staff_days": 0.56,
+            "lead_days": 0.4,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0350_shotList",
+          "source_worksheet_title": "0350_Vis_Review Note"
+        }
+      ]
+    }
+  ]
+}

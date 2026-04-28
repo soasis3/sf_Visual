@@ -1,0 +1,1208 @@
+{
+  "spreadsheet_title": "TRAP_MAINBOARD_SCHEDULE",
+  "worksheet_title": "sceneList",
+  "scenes": [
+    {
+      "scene_code": "0070",
+      "scene_label": null,
+      "shotlist_name": "TRAP_0070_shotList",
+      "shotlist_url": "https://docs.google.com/spreadsheets/d/1SUyLcrPhnhdjVvaK17G8oY31PwGQVqdfZkgwq_bDkQU/edit?usp=sharing",
+      "shotlist_spreadsheet_id": "1SUyLcrPhnhdjVvaK17G8oY31PwGQVqdfZkgwq_bDkQU",
+      "total_shots": 29,
+      "total_minutes": 1.8,
+      "total_seconds": 108.3,
+      "total_frames": 2600,
+      "shots": [
+        {
+          "shot_code": "0070_0010",
+          "duration_frames": 260,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": "SJW",
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": "LGH\nWL,\nFlip",
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": "LGH",
+              "status": "App"
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": "LGH",
+              "status": "App"
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.75,
+            "score": 1.75,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0070_shotList",
+          "source_worksheet_title": "0070_Vis_Review Note"
+        },
+        {
+          "shot_code": "0070_0020",
+          "duration_frames": 45,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": "LGH\nFlip\nBlood",
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": "LGH",
+              "status": "App"
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": "LGH",
+              "status": "App"
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.0,
+            "score": 1.0,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0070_shotList",
+          "source_worksheet_title": "0070_Vis_Review Note"
+        },
+        {
+          "shot_code": "0070_0030",
+          "duration_frames": 150,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": "SJW",
+              "status": "App"
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": "SJW",
+              "status": "App"
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.75,
+            "score": 1.75,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0070_shotList",
+          "source_worksheet_title": "0070_Vis_Review Note"
+        },
+        {
+          "shot_code": "0070_0040",
+          "duration_frames": 149,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": "SJW",
+              "status": "App"
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": "SJW",
+              "status": "App"
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.75,
+            "score": 1.75,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0070_shotList",
+          "source_worksheet_title": "0070_Vis_Review Note"
+        },
+        {
+          "shot_code": "0070_0045",
+          "duration_frames": 91,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": "SJW",
+              "status": "Review"
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": "SJW",
+              "status": "App"
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0070_shotList",
+          "source_worksheet_title": "0070_Vis_Review Note"
+        },
+        {
+          "shot_code": "0070_0050",
+          "duration_frames": 100,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": "SJW",
+              "status": "App"
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": "SJW",
+              "status": "App"
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.5,
+            "score": 1.5,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0070_shotList",
+          "source_worksheet_title": "0070_Vis_Review Note"
+        },
+        {
+          "shot_code": "0070_0060",
+          "duration_frames": 120,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": "SJW",
+              "status": "Review"
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": "SJW",
+              "status": "App"
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.5,
+            "score": 1.5,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0070_shotList",
+          "source_worksheet_title": "0070_Vis_Review Note"
+        },
+        {
+          "shot_code": "0070_0070",
+          "duration_frames": 146,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": "SJW",
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": "SJW",
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.75,
+            "score": 1.75,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0070_shotList",
+          "source_worksheet_title": "0070_Vis_Review Note"
+        },
+        {
+          "shot_code": "0070_0080",
+          "duration_frames": 9,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": "SJW",
+              "status": "Review"
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": "SJW",
+              "status": "Review"
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.0,
+            "score": 1.0,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0070_shotList",
+          "source_worksheet_title": "0070_Vis_Review Note"
+        },
+        {
+          "shot_code": "0070_0090",
+          "duration_frames": 60,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": "SJW",
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": "SJW",
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0070_shotList",
+          "source_worksheet_title": "0070_Vis_Review Note"
+        },
+        {
+          "shot_code": "0070_0100",
+          "duration_frames": 33,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": "YDH",
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": "YDH",
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": "LGH",
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.0,
+            "score": 1.0,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0070_shotList",
+          "source_worksheet_title": "0070_Vis_Review Note"
+        },
+        {
+          "shot_code": "0070_0110",
+          "duration_frames": 41,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": "SJW",
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.0,
+            "score": 1.0,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0070_shotList",
+          "source_worksheet_title": "0070_Vis_Review Note"
+        },
+        {
+          "shot_code": "0070_0120",
+          "duration_frames": 16,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": "SJW",
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.0,
+            "score": 1.0,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0070_shotList",
+          "source_worksheet_title": "0070_Vis_Review Note"
+        },
+        {
+          "shot_code": "0070_0130",
+          "duration_frames": 34,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": "YDH",
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": "YDH",
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": "LGH",
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.0,
+            "score": 1.0,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0070_shotList",
+          "source_worksheet_title": "0070_Vis_Review Note"
+        },
+        {
+          "shot_code": "0070_0140",
+          "duration_frames": 79,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": "YDH",
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": "SJW",
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0070_shotList",
+          "source_worksheet_title": "0070_Vis_Review Note"
+        },
+        {
+          "shot_code": "0070_0160",
+          "duration_frames": 30,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": "YDH",
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": "YDH",
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": "LGH",
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.0,
+            "score": 1.0,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0070_shotList",
+          "source_worksheet_title": "0070_Vis_Review Note"
+        },
+        {
+          "shot_code": "0070_0170",
+          "duration_frames": 68,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": "YDH",
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": "YDH",
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": "LGH",
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0070_shotList",
+          "source_worksheet_title": "0070_Vis_Review Note"
+        },
+        {
+          "shot_code": "0070_0180",
+          "duration_frames": 16,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": "YDH",
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": "SJW",
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.0,
+            "score": 1.0,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0070_shotList",
+          "source_worksheet_title": "0070_Vis_Review Note"
+        },
+        {
+          "shot_code": "0070_0190",
+          "duration_frames": 57,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": "YDH",
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": "SJW",
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": "SJW",
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0070_shotList",
+          "source_worksheet_title": "0070_Vis_Review Note"
+        },
+        {
+          "shot_code": "0070_0200",
+          "duration_frames": 15,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": "YDH",
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": "LGH",
+              "status": "Ren\n\nch/water"
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": "LGH",
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.0,
+            "score": 1.0,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0070_shotList",
+          "source_worksheet_title": "0070_Vis_Review Note"
+        },
+        {
+          "shot_code": "0070_0210",
+          "duration_frames": 24,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": "LGH",
+              "status": "OPEN"
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": "LGH",
+              "status": "Review"
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.0,
+            "score": 1.0,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0070_shotList",
+          "source_worksheet_title": "0070_Vis_Review Note"
+        },
+        {
+          "shot_code": "0070_0215",
+          "duration_frames": 17,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.0,
+            "score": 1.0,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0070_shotList",
+          "source_worksheet_title": "0070_Vis_Review Note"
+        },
+        {
+          "shot_code": "0070_0217",
+          "duration_frames": 10,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.0,
+            "score": 1.0,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0070_shotList",
+          "source_worksheet_title": "0070_Vis_Review Note"
+        },
+        {
+          "shot_code": "0070_0218",
+          "duration_frames": 20,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.0,
+            "score": 1.0,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0070_shotList",
+          "source_worksheet_title": "0070_Vis_Review Note"
+        },
+        {
+          "shot_code": "0070_0219",
+          "duration_frames": 23,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.0,
+            "score": 1.0,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0070_shotList",
+          "source_worksheet_title": "0070_Vis_Review Note"
+        },
+        {
+          "shot_code": "0070_0220",
+          "duration_frames": 53,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": "SJW",
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": "SJW",
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0070_shotList",
+          "source_worksheet_title": "0070_Vis_Review Note"
+        },
+        {
+          "shot_code": "0070_0230",
+          "duration_frames": 100,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": "YDH",
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": "LGH",
+              "status": "Ren\n\nch/water"
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": "LGH",
+              "status": "WIP"
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.5,
+            "score": 1.5,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0070_shotList",
+          "source_worksheet_title": "0070_Vis_Review Note"
+        },
+        {
+          "shot_code": "0070_0240",
+          "duration_frames": 286,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": "SJW",
+              "status": "App"
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": "SJW",
+              "status": "App"
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.75,
+            "score": 1.75,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0070_shotList",
+          "source_worksheet_title": "0070_Vis_Review Note"
+        },
+        {
+          "shot_code": "0070_0250",
+          "duration_frames": 548,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": "LGH",
+              "status": "Ren\n\nch/water"
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": "LGH",
+              "status": "WIP"
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.75,
+            "score": 1.75,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0070_shotList",
+          "source_worksheet_title": "0070_Vis_Review Note"
+        }
+      ]
+    }
+  ]
+}

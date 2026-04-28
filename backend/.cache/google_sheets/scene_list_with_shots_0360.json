@@ -1,0 +1,1536 @@
+{
+  "spreadsheet_title": "TRAP_MAINBOARD_SCHEDULE",
+  "worksheet_title": "sceneList",
+  "scenes": [
+    {
+      "scene_code": "0360",
+      "scene_label": null,
+      "shotlist_name": "TRAP_0360_shotList",
+      "shotlist_url": "https://docs.google.com/spreadsheets/d/18dyJjDpf7K2WEc9lHIP-rGe6GPqkjzuE7AyKPEENUwE/edit?usp=drive_link",
+      "shotlist_spreadsheet_id": "18dyJjDpf7K2WEc9lHIP-rGe6GPqkjzuE7AyKPEENUwE",
+      "total_shots": 37,
+      "total_minutes": 2.4,
+      "total_seconds": 143.9,
+      "total_frames": 3454,
+      "shots": [
+        {
+          "shot_code": "0360_0030",
+          "duration_frames": 209,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.75,
+            "score": 1.75,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        },
+        {
+          "shot_code": "0360_0040",
+          "duration_frames": 81,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        },
+        {
+          "shot_code": "0360_0050",
+          "duration_frames": 86,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        },
+        {
+          "shot_code": "0360_0060",
+          "duration_frames": 266,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.75,
+            "score": 1.75,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        },
+        {
+          "shot_code": "0360_0080",
+          "duration_frames": 107,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.5,
+            "score": 1.5,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        },
+        {
+          "shot_code": "0360_0090",
+          "duration_frames": 90,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        },
+        {
+          "shot_code": "0360_0100",
+          "duration_frames": 76,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        },
+        {
+          "shot_code": "0360_0110",
+          "duration_frames": 60,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        },
+        {
+          "shot_code": "0360_0120",
+          "duration_frames": 71,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        },
+        {
+          "shot_code": "0360_0130",
+          "duration_frames": 60,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        },
+        {
+          "shot_code": "0360_0135",
+          "duration_frames": 61,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        },
+        {
+          "shot_code": "0360_0150",
+          "duration_frames": 105,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.5,
+            "score": 1.5,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        },
+        {
+          "shot_code": "0360_0140",
+          "duration_frames": 94,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        },
+        {
+          "shot_code": "0360_0160",
+          "duration_frames": 47,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.0,
+            "score": 1.0,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        },
+        {
+          "shot_code": "0360_0170",
+          "duration_frames": 94,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        },
+        {
+          "shot_code": "0360_0180",
+          "duration_frames": 67,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        },
+        {
+          "shot_code": "0360_0190",
+          "duration_frames": 63,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        },
+        {
+          "shot_code": "0360_0200",
+          "duration_frames": 61,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        },
+        {
+          "shot_code": "0360_0240",
+          "duration_frames": 76,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        },
+        {
+          "shot_code": "0360_0250",
+          "duration_frames": 44,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.0,
+            "score": 1.0,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        },
+        {
+          "shot_code": "0360_0260",
+          "duration_frames": 88,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        },
+        {
+          "shot_code": "0360_0270",
+          "duration_frames": 140,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.5,
+            "score": 1.5,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        },
+        {
+          "shot_code": "0360_0280",
+          "duration_frames": 55,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        },
+        {
+          "shot_code": "0360_0290",
+          "duration_frames": 80,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        },
+        {
+          "shot_code": "0360_0310",
+          "duration_frames": 25,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.0,
+            "score": 1.0,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        },
+        {
+          "shot_code": "0360_0320",
+          "duration_frames": 39,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.0,
+            "score": 1.0,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        },
+        {
+          "shot_code": "0360_0340",
+          "duration_frames": 75,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        },
+        {
+          "shot_code": "0360_0360",
+          "duration_frames": 118,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.5,
+            "score": 1.5,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        },
+        {
+          "shot_code": "0360_0370",
+          "duration_frames": 263,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.75,
+            "score": 1.75,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        },
+        {
+          "shot_code": "0360_0380",
+          "duration_frames": 100,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.5,
+            "score": 1.5,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        },
+        {
+          "shot_code": "0360_0390",
+          "duration_frames": 67,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        },
+        {
+          "shot_code": "0360_0400",
+          "duration_frames": 91,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        },
+        {
+          "shot_code": "0360_0410",
+          "duration_frames": 137,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.5,
+            "score": 1.5,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        },
+        {
+          "shot_code": "0360_0420",
+          "duration_frames": 98,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.5,
+            "score": 1.5,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        },
+        {
+          "shot_code": "0360_0430",
+          "duration_frames": 98,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.5,
+            "score": 1.5,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        },
+        {
+          "shot_code": "0360_0440",
+          "duration_frames": 66,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        },
+        {
+          "shot_code": "0360_0450",
+          "duration_frames": 96,
+          "preview_image_url": null,
+          "cam": null,
+          "visual_statuses": [
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0360_shotList",
+          "source_worksheet_title": "0360_Vis_Review Note"
+        }
+      ]
+    }
+  ]
+}

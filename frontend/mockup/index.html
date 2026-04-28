@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SF Visual Pipeline Mockup</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <div class="brand-block">
+        <div class="brand-mark">SF</div>
+        <div>
+          <p class="eyebrow">Visual Pipeline</p>
+          <h1>Shot Control</h1>
+        </div>
+      </div>
+
+      <section class="sidebar-section">
+        <p class="section-label">Project</p>
+        <select id="projectSelect" class="project-select">
+          <option>THE_TRAP</option>
+        </select>
+      </section>
+
+      <section class="sidebar-section scene-sidebar-section">
+        <div class="shot-grid-header compact no-pad">
+          <div>
+            <p class="eyebrow">Scene Browser</p>
+            <button class="scene-overview-button" id="sceneOverviewButton">Scenes</button>
+          </div>
+        </div>
+        <div class="scene-grid scene-grid-sidebar" id="projectList"></div>
+      </section>
+    </aside>
+
+    <main class="main-panel">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">THE TRAP</p>
+          <h2 id="projectTitle"></h2>
+        </div>
+        <div class="topbar-actions">
+          <button class="ghost-button" id="updateButton">Update</button>
+        </div>
+      </header>
+
+      <section class="overview-strip">
+        <button class="overview-block overview-total active" data-filter="ALL">
+          <span class="overview-label">Total</span>
+          <strong id="totalCount">0</strong>
+        </button>
+        <button class="overview-block overview-app" data-filter="APP">
+          <span class="overview-label">App</span>
+          <strong id="appCount">0</strong>
+        </button>
+        <button class="overview-block overview-open" data-filter="OPEN">
+          <span class="overview-label">Open</span>
+          <strong id="openCount">0</strong>
+        </button>
+        <button class="overview-block overview-wip" data-filter="WIP">
+          <span class="overview-label">Wip</span>
+          <strong id="wipCount">0</strong>
+        </button>
+        <button class="overview-block overview-ready" data-filter="READY">
+          <span class="overview-label">Ready</span>
+          <strong id="readyCount">0</strong>
+        </button>
+        <button class="overview-block overview-retake" data-filter="RETAKE">
+          <span class="overview-label">Retake</span>
+          <strong id="retakeCount">0</strong>
+        </button>
+        <label class="search-box overview-search">
+          <span>Search</span>
+          <input type="text" id="searchInput" placeholder="scene, shot, artist">
+        </label>
+      </section>
+
+      <section class="shot-table-card">
+        <div class="shot-grid-header">
+          <div>
+            <p class="eyebrow">Shot Browser</p>
+            <h3 id="shotGridTitle">Scene Shots</h3>
+          </div>
+          <div class="shot-grid-legend">
+            <span class="working-day-total" id="workingDayTotal">Working day total 0.0d</span>
+          </div>
+        </div>
+        <div class="table-header">
+          <span>Shot</span>
+          <span>Preview</span>
+          <span>Level</span>
+          <span>Duration</span>
+          <span>Cam</span>
+          <span>ANI DT</span>
+          <span>ANI PL</span>
+          <span>ANI AO</span>
+          <span>CFX Cloth</span>
+          <span>FX Water</span>
+          <span>Rendering</span>
+          <span>Compositing</span>
+          <span>Render Preview</span>
+          <span>Action</span>
+        </div>
+        <div class="table-body" id="shotTable"></div>
+      </section>
+    </main>
+
+    <div class="pane-resizer" id="paneResizer" aria-hidden="true"></div>
+
+    <aside class="detail-panel">
+      <div class="detail-header">
+        <p class="eyebrow">Shot Detail</p>
+        <h3 id="detailShotCode">BTS_0030_0100</h3>
+      </div>
+
+      <section class="detail-preview">
+        <div class="preview-frame">
+          <img id="previewImage" class="preview-image" alt="Preview image">
+        </div>
+      </section>
+
+      <section class="detail-section">
+        <div class="meta-grid" id="metaGrid"></div>
+      </section>
+
+      <div id="stepList" hidden></div>
+    </aside>
+  </div>
+
+  <script src="./app.js"></script>
+</body>
+</html>

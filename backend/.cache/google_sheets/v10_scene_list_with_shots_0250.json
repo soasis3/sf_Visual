@@ -1,0 +1,72 @@
+{
+  "spreadsheet_title": "TRAP_MAINBOARD_SCHEDULE",
+  "worksheet_title": "sceneList",
+  "scenes": [
+    {
+      "scene_code": "0250",
+      "scene_label": "Sq 6.",
+      "shotlist_name": "TRAP_0250_shotList",
+      "shotlist_url": "https://docs.google.com/spreadsheets/d/1Y4P2ewWucmhqg-s0e7zJG_ntab7m807zGrNz8HGby8Q/edit?usp=drive_link",
+      "shotlist_spreadsheet_id": "1Y4P2ewWucmhqg-s0e7zJG_ntab7m807zGrNz8HGby8Q",
+      "compositing_progress": 0.0,
+      "total_shots": 1,
+      "total_minutes": 1.0,
+      "total_seconds": 58.0,
+      "total_frames": 1391,
+      "shots": [
+        {
+          "shot_code": "0250_0010",
+          "duration_frames": 1391,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "진웅의 롱샷에서부터 매우 천천히 돌며 C.U\n울먹이는 진웅.\n\n진웅 : (혼잣말로) 참여 안하겠습니다...\n제가 뭘 잘못했나요?\n\n진동이 울리고 문이 열린다.\n\n\n진웅 : 이제...더 이상 못하겠어요...\n1F(V.O) : 저기요...\n\n차라리 저도 기억을 지워주세요...\n\n1F(V.O) : 위에 누구 있어요?\n\n깊은 한 숨 내쉬는 진웅.\n\n1F(V.O) : 위에 아무도 없-\n\n진웅: (실없이) 여기 있습니다.\n\n1F(V.O) : 근데 어디 계세요? (혼잣말로) 어디 있는 거야..씨..\n\n진웅: (실없이) 여기 있습니다.\n\n1F(V.O) : 잘 안보여요!\n진웅 천천히 일어나 프레임 아웃\n(or 대사 마치기 전까지 누워있기)\n\n진웅 : (긴 숨을 쉬고) 지금부터 제 말을 잘 들어주세요.",
+          "direction_lighting": null,
+          "retake_note": "스팩 떰",
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "탁툰",
+              "status": "Pub"
+            },
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": "LGH",
+              "status": "Review"
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": "LGH",
+              "status": "Retake"
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.75,
+            "score": 1.75,
+            "staff_days": 0.56,
+            "lead_days": 0.4,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0250_shotList",
+          "source_worksheet_title": "0250_Vis_Review Note"
+        }
+      ]
+    }
+  ]
+}

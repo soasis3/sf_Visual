@@ -1,0 +1,16 @@
+services:
+  sfvisual:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: sfvisual
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    env_file:
+      - backend/.env
+    volumes:
+      - /volume1/MACARON/RND/SFtools/sfShotManager/data/db:/app/data/db
+      - /volume1/MACARON/RND/SFtools/sfShotManager/data/cache:/app/data/cache
+      - /volume1/MACARON/RND/SFtools/sfShotManager/secrets:/app/secrets:ro
+      - /volume1/MACARON/RND/SFtools/sfShotManager/projects:/app/projects:ro

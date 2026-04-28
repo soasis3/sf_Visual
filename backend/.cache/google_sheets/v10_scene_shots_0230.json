@@ -1,0 +1,274 @@
+{
+  "scene_code": "0230",
+  "scene_label": null,
+  "shotlist_name": "TRAP_0230_shotList",
+  "shotlist_url": "https://docs.google.com/spreadsheets/d/1BeVuZv6EtdUW8luvXcFZz_6ny-QSHD09r99LwiCCbvI/edit?usp=drive_link",
+  "shotlist_spreadsheet_id": "1BeVuZv6EtdUW8luvXcFZz_6ny-QSHD09r99LwiCCbvI",
+  "compositing_progress": 0.0,
+  "total_shots": 5,
+  "total_minutes": 1.4,
+  "total_seconds": 81.3,
+  "total_frames": 1952,
+  "shots": [
+    {
+      "shot_code": "0230_0005",
+      "duration_frames": 145,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": null,
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0230_shotList",
+      "source_worksheet_title": "0230_Vis_Review Note"
+    },
+    {
+      "shot_code": "0230_0010",
+      "duration_frames": 230,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅의 머리 속에 1-5회차 기억이 주입.\n눈 크게 떴다가 질끈 감는 진웅.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0230_shotList",
+      "source_worksheet_title": "0230_Vis_Review Note"
+    },
+    {
+      "shot_code": "0230_0040",
+      "duration_frames": 350,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "(회상) 목 졸려 숨 넘어가는 진웅.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0230_shotList",
+      "source_worksheet_title": "0230_Vis_Review Note"
+    },
+    {
+      "shot_code": "0230_0060",
+      "duration_frames": 85,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "고개 갸웃거리는 진웅.\n\n진웅 : 잠깐만요, 부활.\n\n부감으로 서서히 빠지는 카메라.\n\n고개 들어 \n이리저리 갸웃거리는 진웅.\n목소리가 점점 떨리고 처절해진다.\n\n진웅 : 저기요, 참여 안하겠습니다.\n이제 그만하고 싶어요...제발...\n\n진웅 : 아니면, \n기억이라도 지워 주세요.\n제발 저도 기억을 지워주세요.\n저기요. 왜 그러시는 거예요? 도대체 왜?\n털썩 주저앉는 진웅. (화이트 화면 전환)",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0230_shotList",
+      "source_worksheet_title": "0230_Vis_Review Note"
+    },
+    {
+      "shot_code": "0230_0070",
+      "duration_frames": 1142,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": null,
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0230_shotList",
+      "source_worksheet_title": "0230_Vis_Review Note"
+    }
+  ]
+}

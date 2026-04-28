@@ -1,0 +1,1631 @@
+{
+  "scene_code": "0420",
+  "scene_label": null,
+  "shotlist_name": "TRAP_0420_shotList",
+  "shotlist_url": "https://docs.google.com/spreadsheets/d/1Sewv_qMUCONMxsSQt7B72PaonZHe8lMF6mZeemfTdWY/edit?usp=drive_link",
+  "shotlist_spreadsheet_id": "1Sewv_qMUCONMxsSQt7B72PaonZHe8lMF6mZeemfTdWY",
+  "compositing_progress": 0.0,
+  "total_shots": 24,
+  "total_minutes": 2.2,
+  "total_seconds": 132.1,
+  "total_frames": 3171,
+  "shots": [
+    {
+      "shot_code": "0420_0010",
+      "duration_frames": 468,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0020",
+      "duration_frames": null,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "omit",
+          "status": "omit"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0030",
+      "duration_frames": null,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "omit",
+          "status": "omit"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0040",
+      "duration_frames": null,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "omit",
+          "status": "omit"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0050",
+      "duration_frames": null,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "omit",
+          "status": "omit"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0060",
+      "duration_frames": null,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "omit",
+          "status": "omit"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0070",
+      "duration_frames": null,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "omit",
+          "status": "omit"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0080",
+      "duration_frames": null,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "omit",
+          "status": "omit"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0090",
+      "duration_frames": 48,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0100",
+      "duration_frames": 76,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0110",
+      "duration_frames": 80,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0120",
+      "duration_frames": 140,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0130",
+      "duration_frames": 67,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0140",
+      "duration_frames": 150,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0150",
+      "duration_frames": 55,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0160",
+      "duration_frames": 53,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0170",
+      "duration_frames": null,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "YDH\nlv2",
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0180",
+      "duration_frames": 165,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0190",
+      "duration_frames": null,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "omit",
+          "status": "omit"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0200",
+      "duration_frames": 58,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0210",
+      "duration_frames": 123,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_215",
+      "duration_frames": 93,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0220",
+      "duration_frames": 242,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0230",
+      "duration_frames": 185,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0240",
+      "duration_frames": 88,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0250",
+      "duration_frames": 107,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0260",
+      "duration_frames": 40,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0270",
+      "duration_frames": 59,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0280",
+      "duration_frames": 103,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0290",
+      "duration_frames": 66,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0300",
+      "duration_frames": 66,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0310",
+      "duration_frames": null,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "omit",
+          "status": "omit"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0320",
+      "duration_frames": 639,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    }
+  ]
+}

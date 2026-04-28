@@ -1,0 +1,1054 @@
+{
+  "scene_code": "0180",
+  "scene_label": "Sq 5.",
+  "shotlist_name": "TRAP_0180_shotList",
+  "shotlist_url": "https://docs.google.com/spreadsheets/d/1fMBxVI2zoR9C4yV7iWNRTH0HU-MPPvr3nzBI-dSmveg/edit?usp=drive_link",
+  "shotlist_spreadsheet_id": "1fMBxVI2zoR9C4yV7iWNRTH0HU-MPPvr3nzBI-dSmveg",
+  "compositing_progress": 55.0,
+  "total_shots": 20,
+  "total_minutes": 1.8,
+  "total_seconds": 106.1,
+  "total_frames": 2547,
+  "shots": [
+    {
+      "shot_code": "0180_0010",
+      "duration_frames": 350,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "데블스플랜 마지막 게임궤도\n계산하는 느낌.\n\n물이 빠진 장면으로 전환,\n문제를 반복해서 중얼거리는 진웅.",
+      "direction_lighting": null,
+      "retake_note": "눈썹 수정하기 블랜드쉐입 프리미어 볼륨 입 안 살짝 올리기 눈썹 스무스? 확인",
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "(탁툰)",
+          "status": "APP"
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SDS",
+          "status": "WIP"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SDS",
+          "status": "WIP"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0180_shotList",
+      "source_worksheet_title": "0180_Vis_Review Note"
+    },
+    {
+      "shot_code": "0180_0030",
+      "duration_frames": 60,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "IF(V.O) : 헉..헉...\n도대체 어디까지 올라가야 하는거예요?\n그 스위치는 왜 잡고만 계세요?",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "(탁툰)",
+          "status": "APP"
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SDS",
+          "status": "APP"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SDS",
+          "status": "APP"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0180_shotList",
+      "source_worksheet_title": "0180_Vis_Review Note"
+    },
+    {
+      "shot_code": "0180_0060",
+      "duration_frames": 110,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "돌아보는 타이밍은 지금처럼 유지해주세요. \n\n진웅 왼쪽 손 내린 자세로 진행",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "(탁툰)",
+          "status": "APP"
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SDS",
+          "status": "APP"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SDS",
+          "status": "APP"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0180_shotList",
+      "source_worksheet_title": "0180_Vis_Review Note"
+    },
+    {
+      "shot_code": "0180_0070",
+      "duration_frames": 80,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "IF : 예?",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "(탁툰)",
+          "status": "APP"
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SDS",
+          "status": "APP"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SDS",
+          "status": "APP"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0180_shotList",
+      "source_worksheet_title": "0180_Vis_Review Note"
+    },
+    {
+      "shot_code": "0180_0080",
+      "duration_frames": 110,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅 : 4532 * 23 + 3512 * 34 계산할 수 있어요?",
+      "direction_lighting": null,
+      "retake_note": "눈두덩이 쉐도우 없애기\n왼쪽 흰자 어둡게",
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "(탁툰)",
+          "status": "APP"
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SDS",
+          "status": "WIP"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SDS",
+          "status": "WIP"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0180_shotList",
+      "source_worksheet_title": "0180_Vis_Review Note"
+    },
+    {
+      "shot_code": "0180_0090",
+      "duration_frames": 80,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "IF  : 어...4...353...네?",
+      "direction_lighting": null,
+      "retake_note": "프리미어 0020임",
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "(탁툰)",
+          "status": "APP"
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SDS",
+          "status": "APP"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SDS",
+          "status": "APP"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0180_shotList",
+      "source_worksheet_title": "0180_Vis_Review Note"
+    },
+    {
+      "shot_code": "0180_0100",
+      "duration_frames": 117,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅 : 여기 오기 전에 뭐 기억나는거 없나요?\n\n1F : 에…? 4천 3백… 기억이요? … 무슨 기억이요?",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "(탁툰)",
+          "status": "APP"
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SDS",
+          "status": "APP"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SDS",
+          "status": "APP"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0180_shotList",
+      "source_worksheet_title": "0180_Vis_Review Note"
+    },
+    {
+      "shot_code": "0180_0120",
+      "duration_frames": 168,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "1F : 오… 오… 맞아요. 어떻게 아셨어요?\n진웅 : 무슨 카드 였나요?\n\n1F : 뭐지?",
+      "direction_lighting": null,
+      "retake_note": "카드 사운드 빼기",
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "(탁툰)",
+          "status": "APP"
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SDS",
+          "status": "APP"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SDS",
+          "status": "APP"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0180_shotList",
+      "source_worksheet_title": "0180_Vis_Review Note"
+    },
+    {
+      "shot_code": "0180_0130",
+      "duration_frames": 70,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "INS. ‘더 푸어’ 카드를 보는 1층 남자의 모습\n\n1층 남자\r\n뭐지? 보자기 같은게 있었는데 …",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "(탁툰)",
+          "status": "APP"
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SDS",
+          "status": "APP"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SDS",
+          "status": "APP"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0180_shotList",
+      "source_worksheet_title": "0180_Vis_Review Note"
+    },
+    {
+      "shot_code": "0180_0140",
+      "duration_frames": 321,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅 : 아...네. 알겠습니다.\n\n진웅 차오르는 물을 보고\n스위치 쪽으로 돌아선다.\n스위치 잡음.\n\n진웅 : \n저희는 3층, 4층 \n계속 위로 올라갈 겁니다.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "(탁툰)",
+          "status": "APP"
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "YDH",
+          "status": "APP"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SDS",
+          "status": "APP"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SDS",
+          "status": "APP"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0180_shotList",
+      "source_worksheet_title": "0180_Vis_Review Note"
+    },
+    {
+      "shot_code": "0180_0150",
+      "duration_frames": 50,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅 : 하지만 4층에는 위험한 사람이 있습니다.",
+      "direction_lighting": null,
+      "retake_note": "이빨 그림자 빼기",
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "(탁툰)",
+          "status": "APP"
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SDS",
+          "status": "Review"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SDS",
+          "status": "Review"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0180_shotList",
+      "source_worksheet_title": "0180_Vis_Review Note"
+    },
+    {
+      "shot_code": "0180_0160",
+      "duration_frames": 158,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "1F : \n위험한 사람이요?\n위험한 사람이 있는데 올라가도 되요? 어떻게 해요?\n물은 계속 차오르는데, 위험한 사람까지…",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "(탁툰)",
+          "status": "APP"
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SDS",
+          "status": "APP"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SDS",
+          "status": "APP"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0180_shotList",
+      "source_worksheet_title": "0180_Vis_Review Note"
+    },
+    {
+      "shot_code": "0180_0170",
+      "duration_frames": 95,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅 : 제가 스위치를 올리면, 3층분께 말을 거세요.",
+      "direction_lighting": null,
+      "retake_note": "이빨 어두움",
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "(탁툰)",
+          "status": "APP"
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SDS",
+          "status": "Review"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SDS",
+          "status": "Review"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0180_shotList",
+      "source_worksheet_title": "0180_Vis_Review Note"
+    },
+    {
+      "shot_code": "0180_0175",
+      "duration_frames": 75,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "4층 사람도 밑에 사람이 많이 있다는 걸 알면 함부로 행동하지 못할 겁니다.",
+      "direction_lighting": null,
+      "retake_note": "라인이 좀 약한 느낌",
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "(탁툰)",
+          "status": "APP"
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "YDH",
+          "status": "APP"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SDS",
+          "status": "WIP"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SDS",
+          "status": "WIP"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0180_shotList",
+      "source_worksheet_title": "0180_Vis_Review Note"
+    },
+    {
+      "shot_code": "0180_0177",
+      "duration_frames": 65,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "스위치를 올린다 -> 진동",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "(탁툰)",
+          "status": "APP"
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "YDH",
+          "status": "APP"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SDS",
+          "status": "APP"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SDS",
+          "status": "APP"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0180_shotList",
+      "source_worksheet_title": "0180_Vis_Review Note"
+    },
+    {
+      "shot_code": "0180_0180",
+      "duration_frames": 110,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진동과 함께 4층 문이 열린다.",
+      "direction_lighting": null,
+      "retake_note": "뒤 해치가 좀 더 어두움 열렸을 때 빛 살짝",
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "(탁툰)",
+          "status": "APP"
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SJW",
+          "status": "Review"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SJW",
+          "status": "Review"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0180_shotList",
+      "source_worksheet_title": "0180_Vis_Review Note"
+    },
+    {
+      "shot_code": "0180_0190",
+      "duration_frames": 208,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "1F : (작은 소리로) 지금 말 해요?\n\n진웅 : (고개를 끄덕이며) 네 큰 소리로… 4층까지 들리게요.",
+      "direction_lighting": null,
+      "retake_note": "수면 스위치가 잠겨야 한다",
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "(탁툰)",
+          "status": "APP"
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "YDH",
+          "status": "APP"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SDS",
+          "status": "WIP"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SDS",
+          "status": "WIP"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0180_shotList",
+      "source_worksheet_title": "0180_Vis_Review Note"
+    },
+    {
+      "shot_code": "0180_0200",
+      "duration_frames": 118,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "1F : 저… 저기요… 3층분?\n3F : (해맑은 얼굴로 다가오며) 네! 뭐 좀 찾으셨어요?",
+      "direction_lighting": null,
+      "retake_note": "뒤 해치가 좀 더 어두움 열렸을 때 빛 살짝  cfx",
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "(탁툰)",
+          "status": "APP"
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "YDH",
+          "status": "Review"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SJW",
+          "status": "Review"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SJW",
+          "status": "Review"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0180_shotList",
+      "source_worksheet_title": "0180_Vis_Review Note"
+    },
+    {
+      "shot_code": "0180_0210",
+      "duration_frames": 122,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅 : (큰소리로) 물이 많이 차 올라서 \n저희 이제 위로 올라 가겠습니다.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "(탁툰)",
+          "status": "APP"
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "YDH",
+          "status": "APP"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SDS",
+          "status": "APP"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SDS",
+          "status": "APP"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0180_shotList",
+      "source_worksheet_title": "0180_Vis_Review Note"
+    },
+    {
+      "shot_code": "0180_0220",
+      "duration_frames": 80,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "3F : 네… 알겠어요\n\n3층 여학생 위로 4층 남자 로빈의 실루엣이 조용히 나타난다.",
+      "direction_lighting": null,
+      "retake_note": "사람이 실제로 보이진 않고 그림자가 위 해치에 보이게  알겠어요 이후 그림지 영역이 지날 때 포커스 이동. 카메라 수정. 더 길게 뽑기. 해치 어둡게 헤어 베이크 확인",
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "(탁툰)",
+          "status": "APP"
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SJW",
+          "status": "Review"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SJW",
+          "status": "Review"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0180_shotList",
+      "source_worksheet_title": "0180_Vis_Review Note"
+    }
+  ]
+}

@@ -1,0 +1,378 @@
+{
+  "scene_code": "0140",
+  "scene_label": null,
+  "shotlist_name": "TRAP_0140_shotList",
+  "shotlist_url": "https://docs.google.com/spreadsheets/d/1JOszlvk-r_uypXXYZ5cqsoBup6tCHJjheCY5zMkOYiQ/edit?usp=drive_link",
+  "shotlist_spreadsheet_id": "1JOszlvk-r_uypXXYZ5cqsoBup6tCHJjheCY5zMkOYiQ",
+  "compositing_progress": 0.0,
+  "total_shots": 7,
+  "total_minutes": 0.7,
+  "total_seconds": 39.8,
+  "total_frames": 955,
+  "shots": [
+    {
+      "shot_code": "0140_0010",
+      "duration_frames": 250,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "4층 남자. 한참 보다가 일어나며 CUT.\n진웅은 한참 기다리고 있다.\n\n풀샷 & 약간의 더치.\n약 LOW 앵글에서\n해치 안을 지켜보는 4F의 모습.\n\n로빈 : ...이 새끼 끈질기네.\n\n단자함은 다 열려 있고, 다 올라가 있는 스위치.\n앵글은 전반적으로 불안하게. (+핸드헬드)",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "혜원",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0140_shotList",
+      "source_worksheet_title": "0140_Vis_Review Note"
+    },
+    {
+      "shot_code": "0140_0020",
+      "duration_frames": 182,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "로빈 : (하늘을 향해서) 야~ 여자! 여자! 물어 빠져 뒈져도 내가 죽인걸로 인정하는 거지?\n아래를 보다가 고개 들고 hold.\n\n4F : (호통) 야! (하늘을 향해서) 니네 듣고 있지? 이 새끼 물에 빠져 뒈져도 내가 죽인 걸로 치는 거지?\n\n이리저리 움직이며, 불안한 듯 행동/대사",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "혜원",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0140_shotList",
+      "source_worksheet_title": "0140_Vis_Review Note"
+    },
+    {
+      "shot_code": "0140_0030",
+      "duration_frames": 23,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "욕하며 물을 차는 로빈.\n(동선이 너무 제자리로 돌아오지 않도록)\n\n로빈 : 맞지 씨발-",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "혜원",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "YDH\nLV2",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 2,
+        "water_label": "Water LV2 + 2D FX",
+        "duration_weight": 0.0,
+        "score": 3.0,
+        "staff_days": 0.96,
+        "lead_days": 0.69,
+        "label": "L2 Splash Water"
+      },
+      "source_sheet_title": "TRAP_0140_shotList",
+      "source_worksheet_title": "0140_Vis_Review Note"
+    },
+    {
+      "shot_code": "0140_0034",
+      "duration_frames": 30,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "물 걷어차는 발 C.U\n\n4층 : 대답해!!",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "혜원",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "YDH\nLV2",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 2,
+        "water_label": "Water LV2 + 2D FX",
+        "duration_weight": 0.0,
+        "score": 3.0,
+        "staff_days": 0.96,
+        "lead_days": 0.69,
+        "label": "L2 Splash Water"
+      },
+      "source_sheet_title": "TRAP_0140_shotList",
+      "source_worksheet_title": "0140_Vis_Review Note"
+    },
+    {
+      "shot_code": "0140_0037",
+      "duration_frames": 175,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "미디움 샷으로 팔로우.\n(손동작이 잘 드러날 수 있도록)\n\n4F : (분노에 찬 샤우팅) 다 죽였잖아! 다 죽이면 여기서 내보내 준다며!!\n\n카메라를 기준으로,\nDepth있게 움직이는 로빈을 \n카메라맨이 같이 움직이는 느낌. \n카메라 앞으로 치고 지나가는 손동작\n전반적으로 동선이 복잡하면 좋습니다.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "혜원",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0140_shotList",
+      "source_worksheet_title": "0140_Vis_Review Note"
+    },
+    {
+      "shot_code": "0140_0040",
+      "duration_frames": 45,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "한참을 누군가를 향해 외치지만, 아무도 응답을 하지 않는다.\n4F C.U\n\n4F : (분노에 찬 샤우팅) 대답해!!! (거친 호흡)\n\n대사 후에도 컷 더 길게.\n메아리 보여줄 수 있도록 한다.\n\n더 광각으로. (눈을 중심으로 잡아 팔로우)",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "혜원",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0140_shotList",
+      "source_worksheet_title": "0140_Vis_Review Note"
+    },
+    {
+      "shot_code": "0140_0050",
+      "duration_frames": 250,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "물이 계속 차오르자 물에 고개를 넣어 속을 바라보려 하는 로빈.\n메아리치는 방 Push Out.\n하이앵글 롱샷. (5초)\n물이 계속 차오르자 물에 고개를 넣어 속을 바라보려 하는 로빈.\n샷 두개로 나누기. 어떻게 된거야 대사에서 불안한 심리 보여주는 타이트한 앵글로.\n\n화가 묻어 있는 액션. 동적인 액션 부탁드립니다.\n(부들부들)\n\n로빈 : 씨발..어떻게 된 거야?\n\n2024/12/16 킥오프 범위 여기까지.",
+      "direction_lighting": "distortion 적용.",
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "혜원",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "YDH\nLV1",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 1,
+        "water_label": "Water LV1",
+        "duration_weight": 0.75,
+        "score": 2.75,
+        "staff_days": 0.88,
+        "lead_days": 0.63,
+        "label": "L1 Calm Water"
+      },
+      "source_sheet_title": "TRAP_0140_shotList",
+      "source_worksheet_title": "0140_Vis_Review Note"
+    }
+  ]
+}

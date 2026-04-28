@@ -1,0 +1,301 @@
+{
+  "scene_code": "0090",
+  "scene_label": "Sq 4.",
+  "shotlist_name": "TRAP_0090_shotList",
+  "shotlist_url": "https://docs.google.com/spreadsheets/d/1ru4ob9BBFfPBO9LQbkozKMKS2QmZyhfGsOgbOl5bKIY/edit?usp=drive_link",
+  "shotlist_spreadsheet_id": "1ru4ob9BBFfPBO9LQbkozKMKS2QmZyhfGsOgbOl5bKIY",
+  "compositing_progress": 100.0,
+  "total_shots": 7,
+  "total_minutes": 0.6,
+  "total_seconds": 35.0,
+  "total_frames": 841,
+  "shots": [
+    {
+      "shot_code": "0090_0010",
+      "duration_frames": 83,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SJW",
+          "status": "APP"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SJW",
+          "status": "APP"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0090_shotList",
+      "source_worksheet_title": "0090_Vis_Review Note"
+    },
+    {
+      "shot_code": "0090_0020",
+      "duration_frames": 135,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SJW",
+          "status": "APP"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SJW",
+          "status": "APP"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0090_shotList",
+      "source_worksheet_title": "0090_Vis_Review Note"
+    },
+    {
+      "shot_code": "0090_0040",
+      "duration_frames": 135,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SJW",
+          "status": "APP"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SJW",
+          "status": "APP"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0090_shotList",
+      "source_worksheet_title": "0090_Vis_Review Note"
+    },
+    {
+      "shot_code": "0090_0050",
+      "duration_frames": 25,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SJW",
+          "status": "APP"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SJW",
+          "status": "APP"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0090_shotList",
+      "source_worksheet_title": "0090_Vis_Review Note"
+    },
+    {
+      "shot_code": "0090_0070",
+      "duration_frames": 150,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SJW",
+          "status": "APP"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SJW",
+          "status": "APP"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0090_shotList",
+      "source_worksheet_title": "0090_Vis_Review Note"
+    },
+    {
+      "shot_code": "0090_0080",
+      "duration_frames": 126,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SJW",
+          "status": "APP"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SJW",
+          "status": "APP"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0090_shotList",
+      "source_worksheet_title": "0090_Vis_Review Note"
+    },
+    {
+      "shot_code": "0090_0090",
+      "duration_frames": 187,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SDS",
+          "status": "APP"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SJW",
+          "status": "APP"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0090_shotList",
+      "source_worksheet_title": "0090_Vis_Review Note"
+    }
+  ]
+}

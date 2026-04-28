@@ -1,0 +1,228 @@
+{
+  "spreadsheet_title": "TRAP_MAINBOARD_SCHEDULE",
+  "worksheet_title": "sceneList",
+  "scenes": [
+    {
+      "scene_code": "0260",
+      "scene_label": null,
+      "shotlist_name": "TRAP_0260_shotList",
+      "shotlist_url": "https://docs.google.com/spreadsheets/d/1kCoy6XNVbXvGxyjxznBLjGi5VP7gl11zUZEHmmqrw28/edit?usp=drive_link",
+      "shotlist_spreadsheet_id": "1kCoy6XNVbXvGxyjxznBLjGi5VP7gl11zUZEHmmqrw28",
+      "compositing_progress": 0.0,
+      "total_shots": 4,
+      "total_minutes": 2.0,
+      "total_seconds": 118.0,
+      "total_frames": 2831,
+      "shots": [
+        {
+          "shot_code": "0260_0010",
+          "duration_frames": 758,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "진웅 (V.O) : 벽에 단자함이 있을 겁니다.\n\n카메라 단자함에서부터 천천히 트럭 아웃.\n\n진웅 (V.O) :  그 단자함을 여시고 노란색 스위치를 올려야합니다. 금색은 절대 건드리지 마시고요. \n\n1F: 노란색..? 올렸어요!! 어? 물이 올라오는데?\n\n진웅 (V.O) :  일단은 가운데로 오세요. 제가 올려드릴게요\n\n1F: 스위치를 올리면 물이 올라온다고 미리 말을 해줬어야죠! 나 물 싫어한단 말이에요!\n\n1F 중앙으로 다가오면, 카메라 계속 뒤로 빠지다 회전하며 위로 올라가기 시작.\n\n1F 다가온 후 카메라 회전 시작.\n\n진웅 (V.O) :  제가 잡아드릴게요\n1F: 나 수영못해 어어!\n\n손을 잡은 두 사람 (두 손 다 1층 안)\n\n진웅 (V.O) :  조금만! 조금만 더 뻗어봐요. 조금만!",
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "탁툰",
+              "status": "Pub"
+            },
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": "LGH",
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": "LGH",
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.75,
+            "score": 1.75,
+            "staff_days": 0.56,
+            "lead_days": 0.4,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0260_shotList",
+          "source_worksheet_title": "0260_Vis_Review Note"
+        },
+        {
+          "shot_code": "0260_0020",
+          "duration_frames": 467,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "[2층] 카메라 같은 속도로 회전하며 위로 올라간다.\n 초록 스위치 올린 진웅 중앙으로, 1F도 따라감.\n\n진웅 : 위층 사람에게 말을 거세요.\n\n1F : 무슨 말이요?\n\n진웅 : 아무 말이나요! 4층에는 위험한 사람이 있습니다.\n사람이 많다는 걸 알면 함부로 행동하지 못할 겁니다.\n\n1F (V.O) : 저기요-! 3층분-!\n\n카메라 위로 올라가며 두 사람이 시야에서 사라진다.",
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "탁툰",
+              "status": "Pub"
+            },
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": "LGH",
+              "status": "ch\nWIP"
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": "LGH",
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.75,
+            "score": 1.75,
+            "staff_days": 0.56,
+            "lead_days": 0.4,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0260_shotList",
+          "source_worksheet_title": "0260_Vis_Review Note"
+        },
+        {
+          "shot_code": "0260_0030",
+          "duration_frames": 607,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "3F 올라가면, 진웅 쪽으로 발걸음 옮기는 여학생.\n3F : 뭔가...생각지도 못한 곳에 문 여는 방법이 있을 거예요.\n\n3F : 근데 여기 뭔가 이상하지 않아요?\n\n카메라 회전하며 시야에서 사라지는 3F.\n\n카메라 회전하며 일행 프레임 아웃되기 전,\n앞으로 걸어나오는 진웅을 말리는 두 사람.\n4F (V.O) : 물이 계속 올라오나봅니다.\n진웅 (V.O) : 두 분은 물이 좀 더 차오르면 올라오세요.\n(심호흡 후) 저기, 올라가게 도와주시겠어요?\n\n4F (V.O) : 물론 도와드려야죠.\n\n4층으로 회전하며 올라가는 카메라.",
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "탁툰\n(2025.10)\n+\n내부",
+              "status": "Pub"
+            },
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": "YDH",
+              "status": "Hold"
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": "LGH",
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": "LGH",
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.75,
+            "score": 1.75,
+            "staff_days": 0.56,
+            "lead_days": 0.4,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0260_shotList",
+          "source_worksheet_title": "0260_Vis_Review Note"
+        },
+        {
+          "shot_code": "0260_0040",
+          "duration_frames": 999,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "4층으로 카메라 올라오면, 중앙에 있던 4F가 격분하며\n진웅 쪽으로 다가간다.\n\n4F : 하려는 말이 뭐야?\n빙빙 돌리지 말고 그냥 말해!\n\n회전 멈추고 두 사람을 클로즈업하는 카메라.\n로빈이 멈춘 후에도 대화가 끝날 때까지 클로즈업.\n\n2F : 나도 탈출이 목표야. ~ (생략) 어차피 문은 다 열어 줄 테니..\n\n클로즈업이 끝남과 거의 동시에, 찰칵. 단자함 열리는 소리.\n\n진웅 : 은색? 은색.........",
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "탁툰\n(2025.10)\n+\n내부",
+              "status": "Pub"
+            },
+            {
+              "task_key": "cfx",
+              "label": "CFX",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "cfx_water",
+              "label": "CFX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": "LGH",
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": "LGH",
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.75,
+            "score": 1.75,
+            "staff_days": 0.56,
+            "lead_days": 0.4,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0260_shotList",
+          "source_worksheet_title": "0260_Vis_Review Note"
+        }
+      ]
+    }
+  ]
+}

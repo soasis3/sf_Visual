@@ -1,0 +1,274 @@
+{
+  "scene_code": "0120",
+  "scene_label": null,
+  "shotlist_name": "TRAP_0120_shotList",
+  "shotlist_url": "https://docs.google.com/spreadsheets/d/1tlYTge3NOkFW-h8pDhcM4ZtjA_BZVatbg2IZPgaUiJg/edit?usp=drive_link",
+  "shotlist_spreadsheet_id": "1tlYTge3NOkFW-h8pDhcM4ZtjA_BZVatbg2IZPgaUiJg",
+  "compositing_progress": 0.0,
+  "total_shots": 5,
+  "total_minutes": 0.3,
+  "total_seconds": 18.5,
+  "total_frames": 443,
+  "shots": [
+    {
+      "shot_code": "0120_0010",
+      "duration_frames": 160,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": null,
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "HE",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "YDH\nLV2",
+          "status": null
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0120_shotList",
+      "source_worksheet_title": "0120_Vis_Review Note"
+    },
+    {
+      "shot_code": "0120_0020",
+      "duration_frames": 120,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": null,
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "HE",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0120_shotList",
+      "source_worksheet_title": "0120_Vis_Review Note"
+    },
+    {
+      "shot_code": "0120_0030",
+      "duration_frames": 100,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": null,
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "HE",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0120_shotList",
+      "source_worksheet_title": "0120_Vis_Review Note"
+    },
+    {
+      "shot_code": "0120_0050",
+      "duration_frames": 11,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": null,
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "HE",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "YDH\nLV2",
+          "status": null
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0120_shotList",
+      "source_worksheet_title": "0120_Vis_Review Note"
+    },
+    {
+      "shot_code": "0120_0055",
+      "duration_frames": 52,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": null,
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "HE",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "YDH\nLV1",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 1,
+        "water_label": "Water LV1",
+        "duration_weight": 0.25,
+        "score": 2.25,
+        "staff_days": 0.72,
+        "lead_days": 0.52,
+        "label": "L1 Calm Water"
+      },
+      "source_sheet_title": "TRAP_0120_shotList",
+      "source_worksheet_title": "0120_Vis_Review Note"
+    }
+  ]
+}

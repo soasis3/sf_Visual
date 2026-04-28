@@ -1,0 +1,2354 @@
+{
+  "scene_code": "0310",
+  "scene_label": null,
+  "shotlist_name": "TRAP_0310_shotList",
+  "shotlist_url": "https://docs.google.com/spreadsheets/d/1QVdGqEocweGw97RdhJv5xpqww_DS_e7AzMNiFTi5DGQ/edit?usp=drive_link",
+  "shotlist_spreadsheet_id": "1QVdGqEocweGw97RdhJv5xpqww_DS_e7AzMNiFTi5DGQ",
+  "compositing_progress": 0.0,
+  "total_shots": 45,
+  "total_minutes": 1.9,
+  "total_seconds": 114.8,
+  "total_frames": 2754,
+  "shots": [
+    {
+      "shot_code": "0310_0010",
+      "duration_frames": 18,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅 잡아채며 해치 아래로 던져버리는 로빈.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0020",
+      "duration_frames": 17,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "해치 아래로 추락하는 진웅.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0030",
+      "duration_frames": 18,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "해치 문에 등을 부딪히는 진웅.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0040",
+      "duration_frames": 27,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "추락하는 진웅",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0050",
+      "duration_frames": 153,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "해치를 붙잡고 겨우 매달린 진웅 부감.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0060",
+      "duration_frames": 62,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "해치 위로 기어올라오는 진웅.\n위층 해치로 로빈의 발이 보인다.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0070",
+      "duration_frames": 56,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "로빈 : 하...씨발! 운 좋네.\n너 거기 딱 기다리고 있어!\n내가 위에 정리하고 내려갈 테니까.\n\n해치 위에서 진웅을 내려다보는 로빈 LOW.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0080",
+      "duration_frames": 530,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅: 흐흐흐… 겁은 나나보지?\n로빈: 뭐? 새끼가 돌았나\n진웅: 카드가 뭔지 모른다고? \n       하! 당신은 날 처음보는 거겠지만, 난 계속 지켜봤는데\n       매번 똑같더라고...\n\n뒤돌아 로빈을 도발하는 진웅.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0090",
+      "duration_frames": 209,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅(V.O): 죽인다는 말은 계속하는데, 막상 죽일 용기는 없고…\n로빈: 하... 이새끼 재밌네...\n\n로빈 상반신 LOW.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0100",
+      "duration_frames": 229,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅: 멍청하긴… 다 죽여봐! 근데..! 내가 부활의 능력을 가진 한..! 넌 날 영원히 못죽여, 이 겁쟁이 새끼야! \n\n힘겹게 기어가 일어서며 계속 도발하는 진웅.\n\n뛰어내리는 로빈 다리 프레임인하며 컷.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0110",
+      "duration_frames": 40,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "바닥에 착지한 로빈.\n로빈 일어서는 움직임 팔로우.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0120",
+      "duration_frames": 194,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "빠르게 뒤돌아서며 놀라는 진웅.\n\n로빈: 하... 이새끼... 그래, 이번에 제일 고통스럽게 죽여줄게",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0130",
+      "duration_frames": 62,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "공포스러운 미소 짓는 로빈 단독샷.\n\n로빈: 어른 앞에서 말버릇 조심해야지…",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0140",
+      "duration_frames": 25,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅 가슴을 발로 걷어차는 로빈.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0150",
+      "duration_frames": 15,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "발에 채여 날아가는 진웅 약 LOW.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0160",
+      "duration_frames": 77,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "벽에 크게 부딪히는 진웅.\n로빈 프레임인.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0180",
+      "duration_frames": 80,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "로빈 C.U\n로빈: 버릇은 못 고치고 죽겠지만\n\n로빈 주먹 화면 가득 메우며 CUT",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0190",
+      "duration_frames": 13,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "로빈 주먹 프레임인하여 진웅 얼굴에 꽂힌다.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0200",
+      "duration_frames": 34,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "마구잡이로 얼굴에 주먹을 날리는 로빈.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0210",
+      "duration_frames": 76,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "로빈 POV.\n\n계속해서 맞던 진웅이 달려든다.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0220",
+      "duration_frames": 19,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "로빈의 몸통을 들이받는 진웅.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0230",
+      "duration_frames": 30,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "로빈의 밀리는 발 C.U",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0240",
+      "duration_frames": 23,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "힘에 밀려 뒤로 밀려나는 로빈.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0250",
+      "duration_frames": 51,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅을 붙잡아 내동댕이치는 로빈 F.S\n진웅은 해치 앞에 나가떨어진다.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0260",
+      "duration_frames": 29,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "무섭게 다가오는 로빈 LOW.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0270",
+      "duration_frames": 35,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "걷어차이는 진웅 약부감.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0280",
+      "duration_frames": 39,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "해치 문 아래 턱이 걸리는 진웅.\n몸을 일으켜보려 하지만\n로빈이 발로 밟으며 저지한다.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0290",
+      "duration_frames": 39,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "수 차례 로빈의 발에 거세게 차이는 진웅 약부감.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0300",
+      "duration_frames": 16,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "비열한 웃음 짓는 로빈 C.U",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0310",
+      "duration_frames": 44,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅의 등을 발로 짓누르는 로빈.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0320",
+      "duration_frames": 15,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "짓누르며 진웅 밀어내는 로빈 발 C.U",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0330",
+      "duration_frames": 20,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "상반신이 해치 아래로 쏠려 내려가는 진웅.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0340",
+      "duration_frames": 25,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "로빈, 해치 위에서 진웅을 발로 밀어 떨어트린다.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0360",
+      "duration_frames": 13,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "그 찰나, 진웅이 아래로 시선 향한다.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0370",
+      "duration_frames": 9,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅 P.O.V로 보이는 아래층 바닥.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0390",
+      "duration_frames": 57,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "두 팔로 매달려 스윙한 뒤 바닥에 널부러지는 진웅.\n약 LOW & 더치",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0400",
+      "duration_frames": 23,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "로빈 : 하...씨\n\n해치 위, 진절머리 나는 듯 머리카락 거칠게 훑으며 성질 내는 로빈.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0410",
+      "duration_frames": 78,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "서서히 숨 고르며 일어나는 진웅 뒤로 뛰어내리는 로빈.\n쿵 소리에 놀란 진웅 표정.\n뒤돌아보면, 로빈이 안정적으로 착지해 있다.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0415",
+      "duration_frames": 26,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "로빈 단독샷.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0420",
+      "duration_frames": 29,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "서서히 뒷걸음질 치는 진웅과 다가가는 로빈 L.S",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0430",
+      "duration_frames": 40,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "뒷걸음질 치는 진웅 약 LOW.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0440",
+      "duration_frames": 32,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "빠르게 패닝하면 로빈이 거칠게 큰걸음으로 돌진한다.\n\nLOW",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0450",
+      "duration_frames": 30,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "맞서 싸우려는 듯 두 주먹을 들어올리는 진웅 B.S",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0460",
+      "duration_frames": 31,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "가소롭다는 듯 다가오는 로빈 B.S 약부감",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    },
+    {
+      "shot_code": "0310_0470",
+      "duration_frames": 66,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "아래층 해치에서 보이는 위층 두 인물의 싸움.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0310_shotList",
+      "source_worksheet_title": "0310_Vis_Review Note"
+    }
+  ]
+}

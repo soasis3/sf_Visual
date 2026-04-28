@@ -1,0 +1,898 @@
+{
+  "scene_code": "0110",
+  "scene_label": null,
+  "shotlist_name": "TRAP_0110_shotList",
+  "shotlist_url": "https://docs.google.com/spreadsheets/d/1GEiPWxo5TUxUMYz4dorsOkBZ1mZ-tirfWz50JJnraC8/edit?usp=drive_link",
+  "shotlist_spreadsheet_id": "1GEiPWxo5TUxUMYz4dorsOkBZ1mZ-tirfWz50JJnraC8",
+  "compositing_progress": 0.0,
+  "total_shots": 17,
+  "total_minutes": 1.2,
+  "total_seconds": 72.5,
+  "total_frames": 1740,
+  "shots": [
+    {
+      "shot_code": "0110_0020",
+      "duration_frames": 60,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "물은 허리까지 차 있다.\n1F : 도대체 몇 층까지 올라가야 하는거야?",
+      "direction_lighting": "여기부터는 모두 핸드헬드",
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "BK",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "YDH\n1단계",
+          "status": "APP"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SJW",
+          "status": "WIP"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SJW",
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 1,
+        "water_label": "Water LV1",
+        "duration_weight": 0.25,
+        "score": 2.25,
+        "staff_days": 0.72,
+        "lead_days": 0.52,
+        "label": "L1 Calm Water"
+      },
+      "source_sheet_title": "TRAP_0110_shotList",
+      "source_worksheet_title": "0110_Vis_Review Note"
+    },
+    {
+      "shot_code": "0110_0030",
+      "duration_frames": 60,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "1F : 저기요 위에 계신 분?",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "BK",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SJW",
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SJW",
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0110_shotList",
+      "source_worksheet_title": "0110_Vis_Review Note"
+    },
+    {
+      "shot_code": "0110_0040",
+      "duration_frames": 127,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅 : (1층 남자에게)쉿\n4F : (V.O) 아이고-",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "BK",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "YDH\n1단계",
+          "status": "APP"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SJW",
+          "status": "WIP"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SJW",
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 1,
+        "water_label": "Water LV1",
+        "duration_weight": 0.5,
+        "score": 2.5,
+        "staff_days": 0.8,
+        "lead_days": 0.58,
+        "label": "L1 Calm Water"
+      },
+      "source_sheet_title": "TRAP_0110_shotList",
+      "source_worksheet_title": "0110_Vis_Review Note"
+    },
+    {
+      "shot_code": "0110_0100",
+      "duration_frames": 69,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "(ins)몸을 웅크리고 아래를 보고 있는 4층 남자. 사냥감을 노려보는 표범처럼 매섭다.\n(V.O)비명 소리 들으셨습니까?",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "BK",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SJW",
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SJW",
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0110_shotList",
+      "source_worksheet_title": "0110_Vis_Review Note"
+    },
+    {
+      "shot_code": "0110_0105",
+      "duration_frames": 109,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": null,
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "BK",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SJW",
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SJW",
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0110_shotList",
+      "source_worksheet_title": "0110_Vis_Review Note"
+    },
+    {
+      "shot_code": "0110_0130",
+      "duration_frames": 155,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "1F : 네?(올려다봄)\n2F : 위에 남자분이 처음부터 3층에 같이 있었던 게 아닌 것 같습니다.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "BK",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SJW",
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SJW",
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0110_shotList",
+      "source_worksheet_title": "0110_Vis_Review Note"
+    },
+    {
+      "shot_code": "0110_0140",
+      "duration_frames": 85,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "(상상 씬) 4층 남자가 다가오는 모습.\n진웅 : 4층에서 내려와서...",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "BK",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "LGH",
+          "status": "Ren"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "LGH",
+          "status": "WIP"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0110_shotList",
+      "source_worksheet_title": "0110_Vis_Review Note"
+    },
+    {
+      "shot_code": "0110_0145",
+      "duration_frames": 65,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": null,
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "BK",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "LGH",
+          "status": "Ren"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "LGH",
+          "status": "WIP"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0110_shotList",
+      "source_worksheet_title": "0110_Vis_Review Note"
+    },
+    {
+      "shot_code": "0110_0160",
+      "duration_frames": 181,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "벌써 물이 가슴까지 차 올랐다. \n\n1F : 4층, 초록색이요?\n진웅 : 저 남자가 여자를 죽였을 확률이 높습니다.\n1F : 예? 우리 어떻게 해요? 물은 계속 차 오르는데... 여자는 밑에 보다가 떨어진 거라고 했는데, 도와준다고도 하고...",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "BK",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "YDH\n1단계",
+          "status": "APP"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SJW",
+          "status": "WIP"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SJW",
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 1,
+        "water_label": "Water LV1",
+        "duration_weight": 0.75,
+        "score": 2.75,
+        "staff_days": 0.88,
+        "lead_days": 0.63,
+        "label": "L1 Calm Water"
+      },
+      "source_sheet_title": "TRAP_0110_shotList",
+      "source_worksheet_title": "0110_Vis_Review Note"
+    },
+    {
+      "shot_code": "0110_0163",
+      "duration_frames": 68,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": null,
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "BK",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SJW",
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SJW",
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0110_shotList",
+      "source_worksheet_title": "0110_Vis_Review Note"
+    },
+    {
+      "shot_code": "0110_0165",
+      "duration_frames": 75,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": null,
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "BK",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "YDH\n1단계",
+          "status": "APP"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SJW",
+          "status": "WIP"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SJW",
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 1,
+        "water_label": "Water LV1",
+        "duration_weight": 0.25,
+        "score": 2.25,
+        "staff_days": 0.72,
+        "lead_days": 0.52,
+        "label": "L1 Calm Water"
+      },
+      "source_sheet_title": "TRAP_0110_shotList",
+      "source_worksheet_title": "0110_Vis_Review Note"
+    },
+    {
+      "shot_code": "0110_0167",
+      "duration_frames": 105,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": null,
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "BK",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "LGH",
+          "status": "Ren"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "LGH",
+          "status": "WIP"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0110_shotList",
+      "source_worksheet_title": "0110_Vis_Review Note"
+    },
+    {
+      "shot_code": "0110_0170",
+      "duration_frames": 43,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅 : 방법이 없습니다. 싸워야 해요!\n\n진웅과 1층 남자의 말을 엿들은 4층 남성이 낄낄대며 얼굴을 내민다.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "BK / \nYH(2025)",
+          "status": "Pub"
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "LGH",
+          "status": "Ren"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "LGH",
+          "status": "WIP"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0110_shotList",
+      "source_worksheet_title": "0110_Vis_Review Note"
+    },
+    {
+      "shot_code": "0110_0180",
+      "duration_frames": 230,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅 : (말을 더듬으며) 저기요! 아니...대화로 하죠.\n저는...선생님이...여성분과 무슨 일이...있었는지 모릅니다.\n그러니...싸우지 말고...",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "BK / \nYH(2025)",
+          "status": "Pub"
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "YDH\n1단계",
+          "status": "APP"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SJW",
+          "status": "WIP"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SJW",
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 1,
+        "water_label": "Water LV1",
+        "duration_weight": 0.75,
+        "score": 2.75,
+        "staff_days": 0.88,
+        "lead_days": 0.63,
+        "label": "L1 Calm Water"
+      },
+      "source_sheet_title": "TRAP_0110_shotList",
+      "source_worksheet_title": "0110_Vis_Review Note"
+    },
+    {
+      "shot_code": "0110_0190",
+      "duration_frames": 68,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅 : 대화...대화로 풀죠.\n4층 남성은 다시 사라진다.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "BK / \nYH(2025)",
+          "status": "Pub"
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "LGH",
+          "status": "Ren"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "LGH",
+          "status": "WIP"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0110_shotList",
+      "source_worksheet_title": "0110_Vis_Review Note"
+    },
+    {
+      "shot_code": "0110_0200",
+      "duration_frames": 160,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "어느덧 물이 목까지 차오르고...몸이 떠 오른다.\n\n진웅 : 아...젠장!\n\n허우적 대는 1층 남자. 3층으로 올라가며\n\n1F : (상냥하게) 선생님~ 아니시죠? 그냥 저 여자는 밑에 보다가",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "BK / \nYH(2025)",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "YDH\n1단계",
+          "status": "APP"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SJW",
+          "status": "WIP"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SJW",
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 1,
+        "water_label": "Water LV1",
+        "duration_weight": 0.75,
+        "score": 2.75,
+        "staff_days": 0.88,
+        "lead_days": 0.63,
+        "label": "L1 Calm Water"
+      },
+      "source_sheet_title": "TRAP_0110_shotList",
+      "source_worksheet_title": "0110_Vis_Review Note"
+    },
+    {
+      "shot_code": "0110_0210",
+      "duration_frames": 80,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "1F : 떨어진거죠?\n진웅 : (V.O)잠깐만요...",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "BK / \nYH(2025)",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "omit",
+          "status": "omit"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "YDH\n1단계",
+          "status": "APP"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SJW",
+          "status": "WIP"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SJW",
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 1,
+        "water_label": "Water LV1",
+        "duration_weight": 0.25,
+        "score": 2.25,
+        "staff_days": 0.72,
+        "lead_days": 0.52,
+        "label": "L1 Calm Water"
+      },
+      "source_sheet_title": "TRAP_0110_shotList",
+      "source_worksheet_title": "0110_Vis_Review Note"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "scene_code": "0250",
+  "scene_label": "Sq 6.",
+  "shotlist_name": "TRAP_0250_shotList",
+  "shotlist_url": "https://docs.google.com/spreadsheets/d/1Y4P2ewWucmhqg-s0e7zJG_ntab7m807zGrNz8HGby8Q/edit?usp=drive_link",
+  "shotlist_spreadsheet_id": "1Y4P2ewWucmhqg-s0e7zJG_ntab7m807zGrNz8HGby8Q",
+  "total_shots": 1,
+  "total_minutes": 1.0,
+  "total_seconds": 58.0,
+  "total_frames": 1391,
+  "shots": [
+    {
+      "shot_code": "0250_0010",
+      "duration_frames": 1391,
+      "preview_image_url": null,
+      "cam": null,
+      "visual_statuses": [
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "LGH",
+          "status": "Review"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "LGH",
+          "status": "Retake"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0250_shotList",
+      "source_worksheet_title": "0250_Vis_Review Note"
+    }
+  ]
+}

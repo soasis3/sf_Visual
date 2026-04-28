@@ -1,0 +1,1262 @@
+{
+  "scene_code": "0420",
+  "scene_label": null,
+  "shotlist_name": "TRAP_0420_shotList",
+  "shotlist_url": "https://docs.google.com/spreadsheets/d/1Sewv_qMUCONMxsSQt7B72PaonZHe8lMF6mZeemfTdWY/edit?usp=drive_link",
+  "shotlist_spreadsheet_id": "1Sewv_qMUCONMxsSQt7B72PaonZHe8lMF6mZeemfTdWY",
+  "compositing_progress": 0.0,
+  "total_shots": 24,
+  "total_minutes": 2.2,
+  "total_seconds": 132.1,
+  "total_frames": 3171,
+  "shots": [
+    {
+      "shot_code": "0420_0010",
+      "duration_frames": 468,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "(0010~0080 병합)\n로빈 : (V.O) 아~ 자신의 시체를\n직접 보는 기분은 어떨까요?\n\n패닉에 빠진 진웅의 \n클로즈업 화면에서\n카메라가 뒤로 점점 빠지면\n 스크린이 나오고. \n\n방송국 스튜디오가 드러난다.\n사회를 보고 있는 4층 남자 로빈과\n3층 여학생 샬롯이 \n화면 안으로 들어온다.\n\n로빈 : 물론 저는 제 시체를 \n매주 보는 기분이지만...\n\n(스크린 속 스크린,\n 화면 밖은 물결 그래픽)",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0090",
+      "duration_frames": 48,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "여러 인물들의 실시간 반응 (주로 클로즈업)이\n동시 송출되는 LED 화면.\n\n로빈 : (V.O)그들은 과연 자신의 정체를\n알게 되었을까요? 자신이...",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0100",
+      "duration_frames": 76,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "로빈, 비열하게 웃으며 안타깝다는 듯 대사\n로빈 : ...복제인간이라는 사실을...\n\n화면에는 패닉에 빠져 넋을 잃은 4F가\n사회자 로빈과 비슷한 구도로 송출된다.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0110",
+      "duration_frames": 80,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "샬롯 : 세계 최초로 시도해본 복제 인간 서바이벌! 더 트랩.\n(역시 뒤에선 3F의 당혹스러운 표정 송출)",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0120",
+      "duration_frames": 140,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "샬롯 : 매주 최고의 시청률을 갱신하고 있는데요~\n\n패널들 박수친다. 박수소리 사그러들면...\n\n로빈 : 우리 모두가 기다리는 시간이죠!\n(화면에는 더 트랩 예능 메인 로고가 떠 있다.)",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0130",
+      "duration_frames": 67,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "로빈 : 오늘의 배당률을 공개합니다!\n\n로빈 뒤로 화려한 그래픽 화면이 빛난다.\n(약 LOW)",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0140",
+      "duration_frames": 150,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "로빈 : (V.O) 여섯 번째 복제인간들은\n탈출할 수 있을 것인가?\n실패할 것인가?\n\n화면엔 차례로 배당 문구가 뜨기 시작한다. (모션그래픽)",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0150",
+      "duration_frames": 55,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "\"탈출한다\" 에 올라가는 숫자 인서트.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0160",
+      "duration_frames": 53,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "\"실패한다\" 에 올라가는 숫자 인서트.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0170",
+      "duration_frames": null,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "LED 시점의 로빈과 샬롯. 약부감.\n로빈, 샬롯 : 와-!\n\n('띵' 소리)",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "YDH\nlv2",
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0180",
+      "duration_frames": 165,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "(0180, 0190 병합)\n샬롯 : (V.O) \"탈출한다\"가 14,651,036명-\n(\"탈출한다\" 인원수 자막 강조 효과)\n(말 속도 조금 더 빠르게 조정)",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0200",
+      "duration_frames": 58,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "샬롯 : (V.O) 탈출 성공이 25%를 선택해서-\n\n(모션 그래픽 효과로 실시간 움직이며 완성되는 그래프 화면)\n(말 속도 살짝 여유롭게 조정)",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0210",
+      "duration_frames": 123,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "샬롯 : 무려 432%의 배당을 받게 되었습니다!\n\n(두 사람 뒤로 432% 배당률 자막이 떠오른다.)\n\n환호하는 두 사람.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_215",
+      "duration_frames": 93,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": null,
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0220",
+      "duration_frames": 242,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "로빈 : 432%라니, 오늘 배팅에 성공하신 분들\n진심으로 축하드립니다.\n\n박수치는 패널들. 박수소리 잦아들면...\n\n로빈 : 아...근데 여러분, 너무 아쉽게도-\n(컷 길이 여유있게)",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0230",
+      "duration_frames": 185,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "로빈 : -저희 라이징 워터 더 트랩 시즌 1-\n(마무리하는 배경 음악 천천히 깔리기 시작)",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0240",
+      "duration_frames": 88,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "로빈 : (V.O) -마무리 할 시간이 찾아왔습니다.\n샬롯 : 어머 벌써요? 너무 아쉬운데요.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0250",
+      "duration_frames": 107,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "로빈 : 너무 아쉽습니다. (한 템포 쉬고)\n참, 저희 프로그램을 위해서",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0260",
+      "duration_frames": 40,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "로빈 : (V.O) 기꺼이 본인의 유전자를 제공해 주신 분들이\n여기 계시는데요.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0270",
+      "duration_frames": 59,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "로빈 : (V.O) 이분들과 함께 이 모든 영광을 나눴으면 좋겠습니다.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0280",
+      "duration_frames": 103,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "로빈 : 이상으로 4층 유전자를 제공한 저 로빈-",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0290",
+      "duration_frames": 66,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "로빈 : -그리고, (손짓하면)\n샬롯 : 3층 유전자를 제공한 샬롯이었습니다.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0300",
+      "duration_frames": 66,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "로빈 : 저희는 더 강력해진 시즌 2로 돌아오겠습니다.\n말없이 옅은 미소 지으며 바라보는 진웅.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    },
+    {
+      "shot_code": "0420_0320",
+      "duration_frames": 639,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "전체 스튜디오로 \n조금씩 줌 아웃하는 카메라.\n출연진들은 인사나누며 \n하나 둘 퇴장한다.\n\n성우 (V.O) : 이 프로그램은\n세계 장기기증협회,\n인공인간 제작협회,\n기억이식연구회,\n미래정부 파이널인간\n협찬입니다.\n유전자를 제공해주신 분께\n깊은 감사를 드리며,\n[생명윤리법]에 따라 복제인간은\n일주일 내로 전부 \n폐기될 예정입니다.\n\n(각 협찬사 로고 \n-> 폐기 안내 문구)\n\nBLACK.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0420_shotList",
+      "source_worksheet_title": "0420_Vis_Review Note"
+    }
+  ]
+}

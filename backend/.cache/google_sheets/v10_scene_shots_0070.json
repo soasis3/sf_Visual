@@ -1,0 +1,1522 @@
+{
+  "scene_code": "0070",
+  "scene_label": null,
+  "shotlist_name": "TRAP_0070_shotList",
+  "shotlist_url": "https://docs.google.com/spreadsheets/d/1SUyLcrPhnhdjVvaK17G8oY31PwGQVqdfZkgwq_bDkQU/edit?usp=sharing",
+  "shotlist_spreadsheet_id": "1SUyLcrPhnhdjVvaK17G8oY31PwGQVqdfZkgwq_bDkQU",
+  "compositing_progress": 27.6,
+  "total_shots": 29,
+  "total_minutes": 1.8,
+  "total_seconds": 108.3,
+  "total_frames": 2600,
+  "shots": [
+    {
+      "shot_code": "0070_0010",
+      "duration_frames": 260,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "아래층을 보는 1남, 3녀\n잠시후 진웅이 물 위로 올라온다. 가쁜 숨을 내쉬며 일어나는 진웅\n \n진웅 : 푸하! (거친 숨)\n3F : 어어, 괜찮아요? \n1F : 아아이 왜 갑자기 물에 뛰어들고 그래요? 괜찮아요?\n(손을 보고) 어..? 손이..?\n\n서로 다른 곳을 바라보는 느낌이 나지 않도록. \n\n잘 올라오고 있나 계속 보고 있기.\n\n진웅은 너무 지쳐서 거의 기어올라오는 느낌.\n진웅이 올라온 후 도와주려는 리액션은 각 캐릭터의 느낌이 살게.\n\n진웅 또한 무릎 짚고 있는 방향도 1F, 3F 향하게.\n\n단자함 컨티뉴이티 (3F 열려있음)",
+      "direction_lighting": "진웅이는 물에 젖은 상태(70번 끝까지)\n\n0010컷 워터라인x 그냥 수면\n\n진웅 손에서는 계속 피가 나고 있어야 합니다.\n(+상처)",
+      "retake_note": "주황라이트 바꾸기\n2층남 팔 올릴 때 물 주르르\n머리에서도 물 떨어지기\n\n환풍기 안돌아요 ㅠ ㅠ\n-> bg렌더중\n\n캐릭터에 스위치 넣기\n손가락 상처\n->ch렌더중\n\n워터라인 위치가 다름\n\n문짝컬러...(water  다시 렌더중)\n\n포말 없는 물만 추가로 뽑아서 중간중간 포말 심한 부분 \n마스킹 처리할 것\n\n수정완료",
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "BK",
+          "status": "Pub"
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "SJW",
+          "status": null
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "LGH\nWL,\nFlip",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "LGH",
+          "status": "App"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "LGH",
+          "status": "App"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0070_shotList",
+      "source_worksheet_title": "0070_Vis_Review Note"
+    },
+    {
+      "shot_code": "0070_0020",
+      "duration_frames": 45,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅의 손에 스위치가 있고, 피가 점점 번져간다.",
+      "direction_lighting": "3f water 기준",
+      "retake_note": "피 더 밝게(새츄, 브라이트 다)\n\n수정완료",
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "BK",
+          "status": "Pub"
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "LGH\nFlip\nBlood",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "LGH",
+          "status": "App"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "LGH",
+          "status": "App"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0070_shotList",
+      "source_worksheet_title": "0070_Vis_Review Note"
+    },
+    {
+      "shot_code": "0070_0030",
+      "duration_frames": 150,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "3F : 손에 피나요!\n1F : 저기 근데, 왜 그 4층문은 왜 안 열려요, 이게 어떻게 된 거예요?\n\n이 부분 배우 레퍼런스 동작은 안 하시는 게 좋겠습니다.\n(가리키는 건 OK)",
+      "direction_lighting": "지켜보는 4F.\n씨익 웃으며",
+      "retake_note": "",
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "BK",
+          "status": "Pub"
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SJW",
+          "status": "App"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SJW",
+          "status": "App"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0070_shotList",
+      "source_worksheet_title": "0070_Vis_Review Note"
+    },
+    {
+      "shot_code": "0070_0040",
+      "duration_frames": 149,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅 : (숨 몰아쉬며) 죄송합니다...4층 문을 여는 건..\n\n배우 레퍼런스 참고.\n\n고개는 지금보다는 더 들고 있는 상태.\n(or 아예 숙이거나. 어쨌든 애매한 상태는 아니도록)",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "BK",
+          "status": "Pub"
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SJW",
+          "status": "App"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SJW",
+          "status": "App"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0070_shotList",
+      "source_worksheet_title": "0070_Vis_Review Note"
+    },
+    {
+      "shot_code": "0070_0045",
+      "duration_frames": 91,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅 : 2층.. 초록색 스위치였어요.\n\n배우 연기 참고.",
+      "direction_lighting": null,
+      "retake_note": "손에 상처 추가",
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "BK",
+          "status": "Pub"
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SJW",
+          "status": "Review"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SJW",
+          "status": "App"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0070_shotList",
+      "source_worksheet_title": "0070_Vis_Review Note"
+    },
+    {
+      "shot_code": "0070_0050",
+      "duration_frames": 100,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "1F : 아...그럼 그거 올리긴 한 거고요?\n\n여기서는 화난 느낌 X.\n기대 반, 의아함 반\n\n'왜 안 열리지?'",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "BK",
+          "status": "Pub"
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SJW",
+          "status": "App"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SJW",
+          "status": "App"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0070_shotList",
+      "source_worksheet_title": "0070_Vis_Review Note"
+    },
+    {
+      "shot_code": "0070_0060",
+      "duration_frames": 120,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅 : 2층 단자함 전원이 꺼졌어요...문을 열 방법이...\n\n진웅 완벽주의 & 자신감 없는 성격.\n\n사죄하는 느낌으로, 눈을계속 피하며.",
+      "direction_lighting": null,
+      "retake_note": "손에 상처 추가",
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "BK",
+          "status": "Pub"
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SJW",
+          "status": "Review"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SJW",
+          "status": "App"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0070_shotList",
+      "source_worksheet_title": "0070_Vis_Review Note"
+    },
+    {
+      "shot_code": "0070_0070",
+      "duration_frames": 146,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅 : ...없을 것 같습니다.\n\n3F : 네, 확실해요? (울상 & 겁에 질린 ) 뭐라도 방법이 있을 텐데..!\n\n1F : (점점 분노에 차오르며) 초록색 스위치...내가 초록색 스위치 올려야 된다 그랬잖아..!\n(진웅에게 달려들며) 아이고 이씨!\n\n되어 있는 애니를 사용할 것. \n\n(립싱크 + 디테일(특히 호흡)만 잡아줍니다.)",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "DE",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SJW",
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SJW",
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0070_shotList",
+      "source_worksheet_title": "0070_Vis_Review Note"
+    },
+    {
+      "shot_code": "0070_0080",
+      "duration_frames": 9,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅 : 아악!\n3F : 꺄악!\n\n역시 있던 애니 그대로 쓰기.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "DE",
+          "status": "Pub"
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SJW",
+          "status": "Review"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SJW",
+          "status": "Review"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0070_shotList",
+      "source_worksheet_title": "0070_Vis_Review Note"
+    },
+    {
+      "shot_code": "0070_0090",
+      "duration_frames": 60,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "3F : 왜, 왜 그러세요!\n\n역시 애니 그대로 쓰기.\n\n지금은 3F이 좀 더 빨리 들어오기.\n\n단자함 컨티뉴이티 (3F 열려있음)",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "DE",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SJW",
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SJW",
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0070_shotList",
+      "source_worksheet_title": "0070_Vis_Review Note"
+    },
+    {
+      "shot_code": "0070_0100",
+      "duration_frames": 33,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "3F : 어떡해, 괜찮아요?\n\n1F 남자가 더 빨리 들어와야 합니다.\n배우 레퍼런스 참고.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "DE",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "YDH",
+          "status": null
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "YDH",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "LGH",
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0070_shotList",
+      "source_worksheet_title": "0070_Vis_Review Note"
+    },
+    {
+      "shot_code": "0070_0110",
+      "duration_frames": 41,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "1F : 씨발 다 아는 척 하더니, 야이!\n3F : 왜 그러세요-",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "DE",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SJW",
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0070_shotList",
+      "source_worksheet_title": "0070_Vis_Review Note"
+    },
+    {
+      "shot_code": "0070_0120",
+      "duration_frames": 16,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "3F :  꺄아악!\n\n보고 놀라며 피하는 진웅.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "DE",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SJW",
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0070_shotList",
+      "source_worksheet_title": "0070_Vis_Review Note"
+    },
+    {
+      "shot_code": "0070_0130",
+      "duration_frames": 34,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "물 떄문에 휘청거리며 중심을 못잡는 진웅",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "DE",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "YDH",
+          "status": null
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "YDH",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "LGH",
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0070_shotList",
+      "source_worksheet_title": "0070_Vis_Review Note"
+    },
+    {
+      "shot_code": "0070_0140",
+      "duration_frames": 79,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "1F : 아오씨! 아 올리면 안된다며! 올리면 안된다며! 내가 올렸어야 되는 건데-씨- \n\n여기서는 양 손으로 계속 미친 듯이 두들기면 됩니다.\n레퍼런스처럼 앞뒤로 휘청거리진 않아도 됩니다.\n\n화난 게 제대로 보일 수 있도록.\n\n단자함 컨티뉴이티 (3F 열려있음)",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "DE",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "YDH",
+          "status": null
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SJW",
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0070_shotList",
+      "source_worksheet_title": "0070_Vis_Review Note"
+    },
+    {
+      "shot_code": "0070_0160",
+      "duration_frames": 30,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "뒷걸음질하는 진웅\n말리려는 3F\n\n1F : (3F 밀쳐내며) 비켜! 이씨!\n3F : 아니, 좀 진정해요.\n진웅 : 아, 잘못 올리면 위험해 질 수도 있어서..",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "DE",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "YDH",
+          "status": null
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "YDH",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "LGH",
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0070_shotList",
+      "source_worksheet_title": "0070_Vis_Review Note"
+    },
+    {
+      "shot_code": "0070_0170",
+      "duration_frames": 68,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "가로막는 3층 밀쳐내는 1층\n\n3F : 왜 이러세요, 아악!\n1F : 너때문에 다 죽게 생겼잖아, 이 개새끼야!\n\n샷 타이밍 조절 예정.\n연출 쪽에서 우선 조정하겠습니다.\n\"개새끼야!\"하면서 멱살 잡을 수 있게.\n\n단자함 컨티뉴이티 (3F 열려있음)",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "DE",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "YDH",
+          "status": null
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "YDH",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "LGH",
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0070_shotList",
+      "source_worksheet_title": "0070_Vis_Review Note"
+    },
+    {
+      "shot_code": "0070_0180",
+      "duration_frames": 16,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "1F : (씩씩대며) 내려가서 열어-\n\n진웅 : 잘 몰랐어요, 제발...이러지..저도...살려고...",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "DE",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "YDH",
+          "status": null
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SJW",
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0070_shotList",
+      "source_worksheet_title": "0070_Vis_Review Note"
+    },
+    {
+      "shot_code": "0070_0190",
+      "duration_frames": 57,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "1F :  내려가서 열라고 이씨! 빨리!\n\n진웅의 외마디 비명.\n\n애니는 거의 살릴 예정.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "DE",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "YDH",
+          "status": null
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SJW",
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SJW",
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0070_shotList",
+      "source_worksheet_title": "0070_Vis_Review Note"
+    },
+    {
+      "shot_code": "0070_0200",
+      "duration_frames": 15,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "격한 분노에 씩씩대는 1F.\n\n애니는 거의 살릴 예정.",
+      "direction_lighting": "물 배경재질 참고",
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "DE",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "YDH",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "LGH",
+          "status": "Ren\n\nch/water"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "LGH",
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0070_shotList",
+      "source_worksheet_title": "0070_Vis_Review Note"
+    },
+    {
+      "shot_code": "0070_0210",
+      "duration_frames": 24,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "애니는 거의 살릴 예정.",
+      "direction_lighting": "0010_4640 컴프 참고",
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "DE",
+          "status": "Pub"
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "LGH",
+          "status": "OPEN"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "LGH",
+          "status": "Review"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0070_shotList",
+      "source_worksheet_title": "0070_Vis_Review Note"
+    },
+    {
+      "shot_code": "0070_0215",
+      "duration_frames": 17,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": null,
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "DE",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0070_shotList",
+      "source_worksheet_title": "0070_Vis_Review Note"
+    },
+    {
+      "shot_code": "0070_0217",
+      "duration_frames": 10,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": null,
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "DE",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0070_shotList",
+      "source_worksheet_title": "0070_Vis_Review Note"
+    },
+    {
+      "shot_code": "0070_0218",
+      "duration_frames": 20,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": null,
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0070_shotList",
+      "source_worksheet_title": "0070_Vis_Review Note"
+    },
+    {
+      "shot_code": "0070_0219",
+      "duration_frames": 23,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": null,
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "DE",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0070_shotList",
+      "source_worksheet_title": "0070_Vis_Review Note"
+    },
+    {
+      "shot_code": "0070_0220",
+      "duration_frames": 53,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "머리가 단자함에 쾅하고 부딪힘. 그 장면을 직접적으로 보여주는 것이 아니라 액팅과 표정으로 묘사\n\n1F: 빨리 내려가 이 새끼야!\n\n눈이 매우 커지며 강조.\n레이아웃은 더 눈이 중앙에 오도록 조정.\n\n여기서부터 문이 떨어지기 시작.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "DE",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SJW",
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SJW",
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0070_shotList",
+      "source_worksheet_title": "0070_Vis_Review Note"
+    },
+    {
+      "shot_code": "0070_0230",
+      "duration_frames": 100,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "단자함 뚜껑이 먼저 쿵 하고 떨어지고, 다음에 진웅이 물에 빠짐.\n\n죽은 상태이니까 좀 더 몸이 핑 돌며 쓰러지는 것 표현. \n가라앉으며 퍼지는 물결은 스피어로 가이드.",
+      "direction_lighting": "[250416_director's note]\n해당 샷 이후의 모든 3F 단자함의 경우, 찌그러진 철판을 강제로 곧게 펴 놓은 듯한 디자인을 적용해 주시길 부탁드립니다.",
+      "retake_note": "[250416_director's note]\n해당 샷 이후의 모든 3F 단자함의 경우, 찌그러진 철판을 강제로 곧게 펴 놓은 듯한 디자인을 적용해 주시길 부탁드립니다.",
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "DE",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "YDH",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "LGH",
+          "status": "Ren\n\nch/water"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "LGH",
+          "status": "WIP"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0070_shotList",
+      "source_worksheet_title": "0070_Vis_Review Note"
+    },
+    {
+      "shot_code": "0070_0240",
+      "duration_frames": 286,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "1층남 씩씩거리며 다가오다가 멈춤. 아무런 반응이 없다 다시 더 다가서다가 당황한\n\n1F : 내려가이..씨....(반응이 없자 의아)\n\n3F : 저기...저기요...\n\n1F :  ..어? (표정 변한다) 저기요..뭐야..\n\n1F은 이미 다가오고 있는 상태.\n이 컷에서는 다가오던 중 자리를 잡는 느낌이 더 강합니다.\n\n1F의 표정변화가 관건. (분노 -> 의아 -> 공포)\n한번에 바뀌지 않도록.\n\n3F는 이미 겁에 질려서 얼어 있는.\n\n(레퍼런스 참고, \n초반은 레퍼런스보다 더 화난 느낌이어야 함.\n건들거리는 몸 움직임 삭제.\n중반 혼란스러워하는 몸 움직임만 참고.)\n\n여기서 1F가 3F을 돌아보는 타이밍이\n더 빠르도록.\n\"저기요!\" 후 3F 눈치보는 느낌으로.",
+      "direction_lighting": null,
+      "retake_note": "워터컬러 수정\n\n물추가\n-> 물 렌더중\n\n* 컴프 v008에 물 추가해두었습니다",
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "HJ",
+          "status": "Pub"
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "SJW",
+          "status": "App"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "SJW",
+          "status": "App"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0070_shotList",
+      "source_worksheet_title": "0070_Vis_Review Note"
+    },
+    {
+      "shot_code": "0070_0250",
+      "duration_frames": 548,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "피가 점점 번저가고, 물도 점점 차오른다. 1층 남자는 뒷걸음질 한다. \n\n첨벙 첨벙 소리\n\n1F : 이...어어?...어어 내가 이럴려고 그런 게 아니라, 난 살짝 밀친건데\n3F : (공포, 울먹) 가까이 오지 마, 저리 가요...\n1F : 잠깐만, 아까부터 나 봤잖아요. 나 이런 사람 아니에요, 잠깐, 어....(패닉)\n3F : 안돼, 살려주세요! (울먹) 오지마!\n\n1F, 3F이 움직일 때 나타나는 물결 움직임은\n(파문) 가이드.\n두 사람의 움직임이 예측이 되도록.\n\n1F 움직임은 예측이 되어야 함.\n(두 사람 액션이 물에 비치기 때문에,\n어느 정도는 액션 해주셔야 합니다.)\n \n진웅 시신은 힘없이 돌며 가라앉는 느낌. \n(프레임 아래 쪽으로 얼굴이 좀 더 이동하는.\n물결따라 약간씩 움직이는.)\n\n페이드 없이 발이 바로 들어오게.",
+      "direction_lighting": "0080_0010 진웅 발 들어오면 물결 파동 생기며 트랜지션",
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "HJ",
+          "status": "Pub"
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": "LGH",
+          "status": "Ren\n\nch/water"
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": "LGH",
+          "status": "WIP"
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0070_shotList",
+      "source_worksheet_title": "0070_Vis_Review Note"
+    }
+  ]
+}

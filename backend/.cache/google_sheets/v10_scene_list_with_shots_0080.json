@@ -1,0 +1,436 @@
+{
+  "spreadsheet_title": "TRAP_MAINBOARD_SCHEDULE",
+  "worksheet_title": "sceneList",
+  "scenes": [
+    {
+      "scene_code": "0080",
+      "scene_label": null,
+      "shotlist_name": "TRAP_0080_shotList",
+      "shotlist_url": "https://docs.google.com/spreadsheets/d/1tJnzmSpoMyO5X8Om76XwPL7q9NnV3U2Pjb5_97DCSpw/edit?usp=sharing",
+      "shotlist_spreadsheet_id": "1tJnzmSpoMyO5X8Om76XwPL7q9NnV3U2Pjb5_97DCSpw",
+      "compositing_progress": 87.5,
+      "total_shots": 8,
+      "total_minutes": 0.8,
+      "total_seconds": 48.3,
+      "total_frames": 1158,
+      "shots": [
+        {
+          "shot_code": "0080_0010",
+          "duration_frames": 51,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "좀 더 부감으로, 전 샷에 맞는 느낌으로.\n\n발이 더 높은 상태에서 시작해도 되겠습니다.\n\n처음 화면에 등장하는 발이 오른 발.\n왼발은 지금보다 더 나중에 등장할 것.\n두 발 사이 거리감이 느껴지게.",
+          "direction_lighting": "리플렉션 필요",
+          "retake_note": "0070 마지막컷과 이어짐 \n리플 퍼지면서 흰색으로 바뀌게\n익스포져느낌\n\n1차랜더는 되어있으나 0070과 연결시키기\n위해 홀드상태 26/4/9 -롱",
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "HJ",
+              "status": "Pub"
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": "LGH",
+              "status": "Hold"
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": "LGH",
+              "status": "Hold"
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "staff_days": 0.4,
+            "lead_days": 0.29,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0080_shotList",
+          "source_worksheet_title": "0080_Vis_Review Note"
+        },
+        {
+          "shot_code": "0080_0020",
+          "duration_frames": 190,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "안내방송 : 정말, 참가하시겠습니까?\n\n진웅 : 네.",
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": null,
+              "status": "Pub"
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": "App"
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": "App"
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.75,
+            "score": 1.75,
+            "staff_days": 0.56,
+            "lead_days": 0.4,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0080_shotList",
+          "source_worksheet_title": "0080_Vis_Review Note"
+        },
+        {
+          "shot_code": "0080_0030",
+          "duration_frames": 140,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "안내방송 : 7개의 카드 중 하나를 골라주세요.",
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": null,
+              "status": "Pub"
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": "App"
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": "App"
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.5,
+            "score": 1.5,
+            "staff_days": 0.48,
+            "lead_days": 0.35,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0080_shotList",
+          "source_worksheet_title": "0080_Vis_Review Note"
+        },
+        {
+          "shot_code": "0080_0040",
+          "duration_frames": 100,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": null,
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": null,
+              "status": "Pub"
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": "App"
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": "App"
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.5,
+            "score": 1.5,
+            "staff_days": 0.48,
+            "lead_days": 0.35,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0080_shotList",
+          "source_worksheet_title": "0080_Vis_Review Note"
+        },
+        {
+          "shot_code": "0080_0050",
+          "duration_frames": 136,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "진웅 : 이걸로 하겠습니다.",
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": null,
+              "status": "Pub"
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": "App"
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": "App"
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.5,
+            "score": 1.5,
+            "staff_days": 0.48,
+            "lead_days": 0.35,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0080_shotList",
+          "source_worksheet_title": "0080_Vis_Review Note"
+        },
+        {
+          "shot_code": "0080_0060",
+          "duration_frames": 150,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "안내방송 : 당신의 카드는...(카드 뒤집자) 심판.\n진웅 : 심판?",
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": null,
+              "status": "Pub"
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": "App"
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": "App"
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.75,
+            "score": 1.75,
+            "staff_days": 0.56,
+            "lead_days": 0.4,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0080_shotList",
+          "source_worksheet_title": "0080_Vis_Review Note"
+        },
+        {
+          "shot_code": "0080_0070",
+          "duration_frames": 321,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "안내방송 : 부활, 개선의 뜻을 가지고 있습니다.\n진웅 :부활이요?\n안내방송 : 이제부터 당신은 부활할 수 있는 능력을 가지게 되었습니다.\n\n시작할 때 카드가 얼굴 가리지 않게.\n진웅 얼굴은 살짝 빼서 이목구비 보이도록.\n(실루엣 겹치지 않게)",
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "HJ",
+              "status": "Pub"
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": "LGH",
+              "status": "App"
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": "LGH",
+              "status": "App"
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.75,
+            "score": 1.75,
+            "staff_days": 0.56,
+            "lead_days": 0.4,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0080_shotList",
+          "source_worksheet_title": "0080_Vis_Review Note"
+        },
+        {
+          "shot_code": "0080_0080",
+          "duration_frames": 70,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "진웅 : 잠깐만요, 부활?\n\n무슨 소리인지 아무것도 모르겠다는 느낌.\n살짝 인상 쓰고, 계속 생각.\n\n동작 크지 않게, 혼란스러움만 표현.",
+          "direction_lighting": "0090 이전 블랙 화면이 더 길게 잡히도록.",
+          "retake_note": "리플에 맞게 리플렉션 영향 \n*리플 마스크에 터뷸런스 디스플레이스먼트 적용 \n혹은 마스크를 한번 더 프리컴프해서 글래스 적용..?",
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "HJ",
+              "status": "Pub"
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": "none",
+              "status": "app"
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": "LGH",
+              "status": "App"
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": "LGH",
+              "status": "App"
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "staff_days": 0.4,
+            "lead_days": 0.29,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0080_shotList",
+          "source_worksheet_title": "0080_Vis_Review Note"
+        }
+      ]
+    }
+  ]
+}

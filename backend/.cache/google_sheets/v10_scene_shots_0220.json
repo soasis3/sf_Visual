@@ -1,0 +1,4798 @@
+{
+  "scene_code": "0220",
+  "scene_label": null,
+  "shotlist_name": "TRAP_0220_shotList",
+  "shotlist_url": "https://docs.google.com/spreadsheets/d/1e_fzNzITUdp3xW0ZR7U5-2B3Nma_sxH1_wXF2qVBG80/edit?usp=drive_link",
+  "shotlist_spreadsheet_id": "1e_fzNzITUdp3xW0ZR7U5-2B3Nma_sxH1_wXF2qVBG80",
+  "compositing_progress": 0.0,
+  "total_shots": 92,
+  "total_minutes": 4.1,
+  "total_seconds": 247.8,
+  "total_frames": 5948,
+  "shots": [
+    {
+      "shot_code": "0220_0010",
+      "duration_frames": 106,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "6층 표지판 클로즈업.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0050",
+      "duration_frames": 100,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "1F : 아...뭐야 이건....\n\n고개 숙여 단자함 보는 둘.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0060",
+      "duration_frames": 130,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "두 사람이 고개를 들면 사이 공간 생기며, \n단자함 구조가 보인다.\n카메라 건반에서 UP",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0070",
+      "duration_frames": 150,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "6F : 제가 해봤는데, 너무 어려워요.\n벽에 삐딱히 기대어 있던\n남학생이 대사.\n1F와 3F가 돌아보고, 진웅은 프레임 인.\n\n진웅 다가오면 \n1F 살짝 비켜주고, 카메라도 약 좌팬.\n\n진웅 : 해봤다고?\n\n중학생 : 저걸 어떻게 맞춰..\n\n다시 단자함 방향으로 3F 돌아보면,\n진웅 가운데로 와서 고민.\n\n이 때, 1F 눈치없이 손 들이댄다.\n\n1F : 이거, 일단 눌러볼까요?\n일행 놀라는 리액션 중 컷.\n\n1f<녹음없음>",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0080",
+      "duration_frames": 36,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅, 3F : (기겁) 어어-! <녹음없음>\n\n말릴 새도 없이 들어오는 1F 손.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0090",
+      "duration_frames": 80,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "4개 화음이 출력되며 울리는 방 롱샷.\n\n진웅 : 뭐...뭐야? <녹음없음>",
+      "direction_lighting": null,
+      "retake_note": "대표님 : 6층에 환풍기가 지금 스뎅으로 되어 있을텐데 콘크리트 발라주세요. 알루미늄? 이면 아이가 들어가기 너무 위험할것 같고, 마음먹으면 부셔버릴 수도 있을것 같아요.\n문은 여전히 스뎅!!",
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0100",
+      "duration_frames": 47,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "단자함 디스플레이 정면 C.U",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0110",
+      "duration_frames": 208,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "머쓱해하는 1F.\n\n1F : 어우, 놀래라... 뭔 소리가 이렇게 커.. <녹음없음>\n\n진웅 : (곤란한 듯) 하...음을 맞추라는 거야? <녹음없음>",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0120",
+      "duration_frames": 140,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "아무거나 누르는 진웅 손 C.U",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0140",
+      "duration_frames": 90,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "탄식하며 고개 뒤로 젖히는 6F.\n\n6F : 하...이제 5개... <녹음없음>",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0150",
+      "duration_frames": 185,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "약부감으로 본 세 사람.\n\n1F : 뭐죠 저건? <녹음없음>\n3F : (눈이 반짝인다.)\n코드를 맞추는 것 같아요.\n화음을 듣고 건반을 동시에 눌러야 해요. <녹음없음>",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0160",
+      "duration_frames": 130,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "1F : 화음? <녹음없음>\n3F : 이게 쉽지 않은게,\n시작음이 뭔지 정확히 알고, 화성도 알아야 돼요. <대사 다름 및 더 많음>",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0170",
+      "duration_frames": 120,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "3F : 메이저 코드인지 마이너 코드인지 느낌을 알아도, \n정확하게 C 코드인지 D 코드인지 알아야 하는데, <위와 동일>\n\n진웅 뒤에서 바보같이 멍하게 쳐다보는 1F.\n(하나도 이해 못하고 있음.)",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0180",
+      "duration_frames": 90,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "3F 단독 B.S\n\n3F : 문제는 코드도 단순한 메이저 마이너가 아니고,\n세븐, 디미니쉬처럼 어려운 코드인 것 같다는 거죠. <위와 동일>\n\n대사 후 화면으로 고개 돌리면,",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0190",
+      "duration_frames": 90,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "화면에 비치는 일행의 얼굴.\n\n3F : 저 학생 말에 따르면, 음의 개수도 하나씩 늘어나는 것 같고.\n자리 바꿈의 수가- <위와 동일>",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0200",
+      "duration_frames": 70,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "3F : 엄청난 거죠. <위와 동일>\n\n1F : 무슨 말인지 하나도 모르겠네...",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0205",
+      "duration_frames": 85,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "1F : 저걸 사람이 할 수 있는거예요?",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0210",
+      "duration_frames": 65,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "3F : 절대음감이면 가능할걸요. 난 아니지만...\n4F : 아이씨-\n\n4F 짜증에 돌아보는 일행 (돌아보며 컷)",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0215",
+      "duration_frames": 170,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "3F : 난 아니지만...\n\n1F 열려고 흔들어 보지만, 열리지 않는다.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0220",
+      "duration_frames": 48,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "4F 발 프레임 인.\n\n4F : 코든지 뭔지...뭐라고... <대사다름>",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0230",
+      "duration_frames": 30,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "다가오는 4F. 프로파일\n\n4F : 보자 보자 하니까... <대사다름>",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0240",
+      "duration_frames": 130,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "당황하는 진웅. 다들 조금씩 주춤하고,\n진웅 : 잠시만요. 우리 중에 풀 수 있는 사람이 있을 겁니다.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0250",
+      "duration_frames": 46,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "4F : 웃기시네, 이거 지금 당신이\n 다 조작하는 거 아니야?\n\n점점 빠르게 다가오는 4F.\n\n큰 발걸음으로 걸어오는 중 CUT.\n손은 진웅 밀치기 거의 직전 포즈.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0260",
+      "duration_frames": 40,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅 : 잠시만 진정해 보세-\n\n밀치고 들어오는 4F.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0270",
+      "duration_frames": 40,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "스피커 화면을 거칠게 내리치는 4F 손.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0280",
+      "duration_frames": 80,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "5음계의 불협화음이 쨍하게 울린다.\nLOW 롱샷.\n\n(샷 길이 어느정도 확보해야 함.)",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0290",
+      "duration_frames": 160,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅, 4F에게 다가가며.\n\n진웅 : 아, 이거 보세요!\n\n가볍게 밀쳐내는 4F.\n(레퍼런스 방향 참고)",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0310",
+      "duration_frames": 60,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "4F : 당신 정말 정체가 뭐야?",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0320",
+      "duration_frames": 70,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "삐익. 에러 소리.\n6음계 화면으로 변경된다.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0330",
+      "duration_frames": 90,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "4F : 결국 다 죽이고 너 혼자 살아남으려는 거지?\n\n1F : 예? ...그쪽이 우릴 다 죽이려 한다고요?",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0340",
+      "duration_frames": 65,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "1F : 4층 분이 위험한 사람이라면서요.\n\n\n4F, 기가 찬 웃음.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0350",
+      "duration_frames": 130,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "4F LOW.\n\n4F : 내가? 내가?!\n\n거칠게 뒤도는 4F.\n스피커 화면 다시 내려치면.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0360",
+      "duration_frames": 70,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "6개의 불쾌한 화음이 크게 울린다.\n진동 울리는 공간 WIDE.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0370",
+      "duration_frames": 63,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "뒤돌아 삿대질하며 돌진하는 4F.\n(완전히 싸울 기세)\n(움직임은 레퍼런스 참고, LOW)",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0380",
+      "duration_frames": 115,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "4F : 너 이새끼 너, 물에 대해서도, 단자함에 대해서도,",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0430",
+      "duration_frames": 123,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "4F의 사자후.\n\n4F : 이게 뭔 개수작이야!\n\n조용히 말 없던 진웅.\n정적이 흐르다 \n'띵' 하는 소리에 놀란다.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0450",
+      "duration_frames": 200,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "카메라, 5F 얼굴에서 멈추면.\n\n3F : 단자함이 열렸어요!",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0460",
+      "duration_frames": 100,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "3F 다가온다.\n\n3F : 할아버지-!\n1F : (다가오며) 저걸 맞췄다고요?\n\n3F  다가가면, \n할아버지는 뒷걸음질로 이동.\n1F 헛웃음 지으면\n\n5F : (수어로) 별말씀을...\n4F 프레임 인 한다.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0470",
+      "duration_frames": 55,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅 질질 끌고 오는 4F.\n양쪽 사람들은 흩어진다. 단자함 뷰.\n\n4F : 이리 와.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0475",
+      "duration_frames": 30,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅 POV \n앞으로 손 짚는다.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0480",
+      "duration_frames": 140,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "거의 부딪힐 듯 \n앞으로 고꾸라졌다가\n단자함 옆에\n손 받치며 멈춘다.\n옆으로 다가오는 4F.\n\n다시 균형 잡으면\n4F가 옆으로 다가온다.\n\n4F : 열어.\n\n단자함 문 열고 다가가는 진웅.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0490",
+      "duration_frames": 100,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "단자함 문 열리면, 가까이 다가오는 진웅.\n당황하여 흔들리는 눈동자.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0500",
+      "duration_frames": 40,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "보라색이 아닌 동색의 스위치이다.\n\n진웅 : 동색...동색...?",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0510",
+      "duration_frames": 50,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅 : 보라색...보라색 스위치가 있어야 하는데..\n\n혼란스러운 눈빛.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0520",
+      "duration_frames": 120,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "4F의 사자후.\n\n4F : 열어!\n\n진웅, 머뭇거리다 스위치로 손 이동.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0525",
+      "duration_frames": 50,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": null,
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0530",
+      "duration_frames": 105,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅, 망설이다 스위치 빠르게 올린다.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0540",
+      "duration_frames": 60,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "강하게 울리는 진동.\n\n모두 당연히 7층이 열릴거라 생각하며 고개를 든다.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0550",
+      "duration_frames": 60,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "고개 들어 천장 해치 바라보는 진웅.\n4F 약부감.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0560",
+      "duration_frames": 60,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "멍하니 고개 든 채 바라보는 1F, 3F.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0570",
+      "duration_frames": 60,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "아무 반응 없는 해치.\n그러나 진동이 요란하다.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0580",
+      "duration_frames": 100,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "이상하다는 듯, 앞으로 살짝 다가가.\n아래 내려다보는 1F.\n\n1F : (기겁하며) 이, 이게 뭐야-!\n소리지르며 뒤로 튀어나간다.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0590",
+      "duration_frames": 60,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "빠른 속도로 밑에서부터 물이 솟아오른다.\n(3F P.O.V)",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0595",
+      "duration_frames": 25,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": null,
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0600",
+      "duration_frames": 30,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "3F 기겁한다.\n3F : 물이..!\n\n해치로 다가오는 진웅.\n진웅 : (당황하며) 물이...물이...왜!",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0610",
+      "duration_frames": 30,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "1F : 뭔 짓을 한 거예요? 7층 문을 여는 거 아니였어?\n\n격분하는 1F와 뒤에서 공포에 떠는 3F.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0620",
+      "duration_frames": 40,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅. 조금씩 체념하는 표정.\n\n진웅 : 아...그...그게....",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0630",
+      "duration_frames": 26,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅 : 다음에는 꼭...\n4F : 너 이새끼 내가 이럴 줄 알았어. 다가와 진웅 낚아채는 4F.\n(1F은 패닉 와서 여기저기 튀며 돌아다녀도 좋을 듯)",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0640",
+      "duration_frames": 35,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "벽에 부딪히는 진웅. 약 더치.\n4F : 너 이새끼, 나랑 같은 카드 뽑았던 거지!",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0650",
+      "duration_frames": 30,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "4F : 뭐...탈출...웃기시네...",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0660",
+      "duration_frames": 42,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "4F : 우리 모두 죽이고 지 혼자 탈출하려는 거지?!",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0670",
+      "duration_frames": 42,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "4F : (진웅 목을 조르기 시작하여) 너는 내 손으로 죽여버린다.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0680",
+      "duration_frames": 30,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "1F : 뭐야, 지금까지 우릴 다 속인거야!\n격분에 몸부림치는 1F.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0690",
+      "duration_frames": 60,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "목 졸리며 정신 잃어가는 진웅.\n진웅 : 아...아니에요!!",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0700",
+      "duration_frames": 57,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "3F : 어떻게...그럴수가...\n눈물 흘리며 절망하는 3F.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.25,
+        "score": 1.25,
+        "staff_days": 0.4,
+        "lead_days": 0.29,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0710",
+      "duration_frames": 40,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "4F : 이 쓰레기 새끼..꼭 죽여주마..\n더 세게 목 조르며, 광기 어린 분노의 눈빛으로 노려보는 4F.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_0720",
+      "duration_frames": 48,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅이 정신을 잃어갈때쯤,\n물살이 방을 헤집고 들어와 방을 메우기 시작한다.\n소용돌이에 휘말리는 사람들.\n\n(이 후반부는 애니메틱)",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "YDH\nlv2",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 2,
+        "water_label": "Water LV2 + 2D FX",
+        "duration_weight": 0.0,
+        "score": 3.0,
+        "staff_days": 0.96,
+        "lead_days": 0.69,
+        "label": "L2 Splash Water"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_1010",
+      "duration_frames": 79,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "물살에 휩쓸리기 시작하는 사람들\n로빈 헤엄치며 진웅 발 잡으려 한다.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "YDH\nlv3",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 3,
+        "water_label": "Water LV3 + 2D FX",
+        "duration_weight": 0.25,
+        "score": 4.25,
+        "staff_days": 1.36,
+        "lead_days": 0.98,
+        "label": "L3 Hero Water"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_1020",
+      "duration_frames": 22,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅 발 붙잡는 로빈 손 C.U",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "YDH\nlv3",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 3,
+        "water_label": "Water LV3 + 2D FX",
+        "duration_weight": 0.0,
+        "score": 4.0,
+        "staff_days": 1.28,
+        "lead_days": 0.92,
+        "label": "L3 Hero Water"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_1030",
+      "duration_frames": 48,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "휩쓸려가는 사람들 사이로 진웅을 잡아끄는 로빈.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "YDH\nlv3",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 3,
+        "water_label": "Water LV3 + 2D FX",
+        "duration_weight": 0.0,
+        "score": 4.0,
+        "staff_days": 1.28,
+        "lead_days": 0.92,
+        "label": "L3 Hero Water"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_1040",
+      "duration_frames": 39,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "목 졸리는 진웅.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "YDH\nlv3",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 3,
+        "water_label": "Water LV3 + 2D FX",
+        "duration_weight": 0.0,
+        "score": 4.0,
+        "staff_days": 1.28,
+        "lead_days": 0.92,
+        "label": "L3 Hero Water"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_1050",
+      "duration_frames": 62,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "목 붙잡힌 채로 휩쓸려가는 두 사람.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "YDH\nlv3",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 3,
+        "water_label": "Water LV3 + 2D FX",
+        "duration_weight": 0.25,
+        "score": 4.25,
+        "staff_days": 1.36,
+        "lead_days": 0.98,
+        "label": "L3 Hero Water"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_1060",
+      "duration_frames": 38,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "해치 붙잡고 버티는 1F.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "YDH\nlv3",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 3,
+        "water_label": "Water LV3 + 2D FX",
+        "duration_weight": 0.0,
+        "score": 4.0,
+        "staff_days": 1.28,
+        "lead_days": 0.92,
+        "label": "L3 Hero Water"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_1070",
+      "duration_frames": 38,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "고개를 들어 앞을 보는 1F.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "YDH\nlv3",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 3,
+        "water_label": "Water LV3 + 2D FX",
+        "duration_weight": 0.0,
+        "score": 4.0,
+        "staff_days": 1.28,
+        "lead_days": 0.92,
+        "label": "L3 Hero Water"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_1080",
+      "duration_frames": 19,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "1F P.O.V\n\n1F에게 휩쓸려오는 진웅과 로빈",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "YDH\nlv3",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 3,
+        "water_label": "Water LV3 + 2D FX",
+        "duration_weight": 0.0,
+        "score": 4.0,
+        "staff_days": 1.28,
+        "lead_days": 0.92,
+        "label": "L3 Hero Water"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_1090",
+      "duration_frames": 85,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "충돌하며 해치를 놓치는 1F.\n물길 방향따라 뒤로 날아가는 일행들.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "YDH\nlv3",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 3,
+        "water_label": "Water LV3 + 2D FX",
+        "duration_weight": 0.25,
+        "score": 4.25,
+        "staff_days": 1.36,
+        "lead_days": 0.98,
+        "label": "L3 Hero Water"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_1100",
+      "duration_frames": 18,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "벽에 부딪히는 1F.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "YDH\nlv3",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 3,
+        "water_label": "Water LV3 + 2D FX",
+        "duration_weight": 0.0,
+        "score": 4.0,
+        "staff_days": 1.28,
+        "lead_days": 0.92,
+        "label": "L3 Hero Water"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_1110",
+      "duration_frames": 13,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "벽에 부딪히는 로빈.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "YDH\nlv3",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 3,
+        "water_label": "Water LV3 + 2D FX",
+        "duration_weight": 0.0,
+        "score": 4.0,
+        "staff_days": 1.28,
+        "lead_days": 0.92,
+        "label": "L3 Hero Water"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_1120",
+      "duration_frames": 14,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "벽에 부딪히는 3F.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "YDH\nlv3",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 3,
+        "water_label": "Water LV3 + 2D FX",
+        "duration_weight": 0.0,
+        "score": 4.0,
+        "staff_days": 1.28,
+        "lead_days": 0.92,
+        "label": "L3 Hero Water"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_1130",
+      "duration_frames": 12,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "벽에 부딪히는 진웅.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "YDH\nlv3",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 3,
+        "water_label": "Water LV3 + 2D FX",
+        "duration_weight": 0.0,
+        "score": 4.0,
+        "staff_days": 1.28,
+        "lead_days": 0.92,
+        "label": "L3 Hero Water"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_1140",
+      "duration_frames": 84,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "다같이 천장에 부딪혔다가 물살 따라 가라앉는다.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "YDH\nlv3",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 3,
+        "water_label": "Water LV3 + 2D FX",
+        "duration_weight": 0.25,
+        "score": 4.25,
+        "staff_days": 1.36,
+        "lead_days": 0.98,
+        "label": "L3 Hero Water"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_1150",
+      "duration_frames": 42,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "물길이 잦아들며, 자리에 멈추어 고개 드는 진웅.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "YDH\nlv3",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 3,
+        "water_label": "Water LV3 + 2D FX",
+        "duration_weight": 0.0,
+        "score": 4.0,
+        "staff_days": 1.28,
+        "lead_days": 0.92,
+        "label": "L3 Hero Water"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_1160",
+      "duration_frames": 116,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "헤엄치며 숨 참는 1F, 3F",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "YDH\nlv3",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 3,
+        "water_label": "Water LV3 + 2D FX",
+        "duration_weight": 0.5,
+        "score": 4.5,
+        "staff_days": 1.44,
+        "lead_days": 1.04,
+        "label": "L3 Hero Water"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_1170",
+      "duration_frames": 112,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "숨 참는 5F, 6F",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "YDH\nlv3",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 3,
+        "water_label": "Water LV3 + 2D FX",
+        "duration_weight": 0.5,
+        "score": 4.5,
+        "staff_days": 1.44,
+        "lead_days": 1.04,
+        "label": "L3 Hero Water"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_1180",
+      "duration_frames": 122,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "벽을 박차고 진웅에게 돌진하는 로빈.\n가라앉는 사람들을 밀치며 거세게 다가온다.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "YDH\nlv3",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 3,
+        "water_label": "Water LV3 + 2D FX",
+        "duration_weight": 0.5,
+        "score": 4.5,
+        "staff_days": 1.44,
+        "lead_days": 1.04,
+        "label": "L3 Hero Water"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_1190",
+      "duration_frames": 29,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅에게 다가오는 로빈의 손.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "YDH\nlv3",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 3,
+        "water_label": "Water LV3 + 2D FX",
+        "duration_weight": 0.0,
+        "score": 4.0,
+        "staff_days": 1.28,
+        "lead_days": 0.92,
+        "label": "L3 Hero Water"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_1200",
+      "duration_frames": 68,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "진웅 목을 부여잡고 벽으로 충돌시키는 로빈.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "YDH\nlv3",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 3,
+        "water_label": "Water LV3 + 2D FX",
+        "duration_weight": 0.25,
+        "score": 4.25,
+        "staff_days": 1.36,
+        "lead_days": 0.98,
+        "label": "L3 Hero Water"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_1210",
+      "duration_frames": 98,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "목 졸린 채 버둥거리는 진웅 C.U",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_1220",
+      "duration_frames": 339,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "4F 표정 뒤로 진웅을 노려보는 일행들이 보인다.\n물을 먹으며 고통스럽게 진웅을 바라보는 일행들.\n\n진웅 P.O.V (속도감 느리게)",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "YDH\nlv3",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 3,
+        "water_label": "Water LV3 + 2D FX",
+        "duration_weight": 0.75,
+        "score": 4.75,
+        "staff_days": 1.52,
+        "lead_days": 1.09,
+        "label": "L3 Hero Water"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_1230",
+      "duration_frames": 207,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "고통스러워하며 일행들을 바라보는 진웅의 눈 E.C.U",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_1240",
+      "duration_frames": 38,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "로빈의 팔을 붙들고 있던 진웅의 손에 힘이 빠진다.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "YDH\nlv3",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 3,
+        "water_label": "Water LV3 + 2D FX",
+        "duration_weight": 0.0,
+        "score": 4.0,
+        "staff_days": 1.28,
+        "lead_days": 0.92,
+        "label": "L3 Hero Water"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    },
+    {
+      "shot_code": "0220_1250",
+      "duration_frames": 162,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": null,
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx",
+          "label": "CFX",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "cfx_water",
+          "label": "CFX Water",
+          "artist": "YDH\nlv3",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 3,
+        "water_label": "Water LV3 + 2D FX",
+        "duration_weight": 0.75,
+        "score": 4.75,
+        "staff_days": 1.52,
+        "lead_days": 1.09,
+        "label": "L3 Hero Water"
+      },
+      "source_sheet_title": "TRAP_0220_shotList",
+      "source_worksheet_title": "0220_Vis_Review Note"
+    }
+  ]
+}

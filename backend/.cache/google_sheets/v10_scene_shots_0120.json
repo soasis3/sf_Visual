@@ -1,0 +1,274 @@
+{
+  "scene_code": "0120",
+  "scene_label": null,
+  "shotlist_name": "TRAP_0120_shotList",
+  "shotlist_url": "https://docs.google.com/spreadsheets/d/1tlYTge3NOkFW-h8pDhcM4ZtjA_BZVatbg2IZPgaUiJg/edit?usp=drive_link",
+  "shotlist_spreadsheet_id": "1tlYTge3NOkFW-h8pDhcM4ZtjA_BZVatbg2IZPgaUiJg",
+  "compositing_progress": 0.0,
+  "total_shots": 5,
+  "total_minutes": 0.3,
+  "total_seconds": 18.5,
+  "total_frames": 443,
+  "shots": [
+    {
+      "shot_code": "0120_0010",
+      "duration_frames": 160,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "힘겹게, 멍청하게 기어올라오는 1층 남자.\n철퍼덕 널부러진 느낌. \n공손히 무릎꿇는 느낌은 X.\n\n1F : 저 사람이 괜히 이상한 얘길 해가지고, \n아오 아파라, 하..좀 도와주시지.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "HE",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "YDH\nLV2",
+          "status": null
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.75,
+        "score": 1.75,
+        "staff_days": 0.56,
+        "lead_days": 0.4,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0120_shotList",
+      "source_worksheet_title": "0120_Vis_Review Note"
+    },
+    {
+      "shot_code": "0120_0020",
+      "duration_frames": 120,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "1층 남자를 바라보는 4층 남자의 무표정한 시선.\n\n1F : 하하..(멋쩍게) 안녕하세요.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "HE",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0120_shotList",
+      "source_worksheet_title": "0120_Vis_Review Note"
+    },
+    {
+      "shot_code": "0120_0030",
+      "duration_frames": 100,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "1F : (계속 말없이 바라보니 머쓱. 눈굴리며)\n저... 그 흐흐... (발로 채이고) 어억!\n\n\n천천히 푸쉬인 스러운 느낌으로. (P.O.V)\n\n대사 후 달려와 머리를 걷어차는 \n4층 남자의 발.\n옆에서 발등 날려 얼굴 걷어차는 4F.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "HE",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.5,
+        "score": 1.5,
+        "staff_days": 0.48,
+        "lead_days": 0.35,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0120_shotList",
+      "source_worksheet_title": "0120_Vis_Review Note"
+    },
+    {
+      "shot_code": "0120_0050",
+      "duration_frames": 11,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "맞고 (밑에서 위로 상체 살짝 젖혀지며) \n살짝 구르는 1F.\n놀란 1층 남자는 정신을 차리지 못한다.\n\n4층 남자가 뒤로 걸리고,\n1F 남자의 얼굴이 가까이 날아와 depth 형성.\n당황하는 1F.",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "HE",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "YDH\nLV2",
+          "status": null
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 0,
+        "water_label": "Normal Render",
+        "duration_weight": 0.0,
+        "score": 1.0,
+        "staff_days": 0.32,
+        "lead_days": 0.23,
+        "label": "L0 Normal"
+      },
+      "source_sheet_title": "TRAP_0120_shotList",
+      "source_worksheet_title": "0120_Vis_Review Note"
+    },
+    {
+      "shot_code": "0120_0055",
+      "duration_frames": 52,
+      "preview_image_url": null,
+      "cam": null,
+      "shot_description": "물이 차올라 해치중앙쪽으로 다가오지만\n불안해하는 진웅이 클로즈업 \n\n무자비하게 폭행하는 4F, 아파하는 1F 소리.\r\n진웅 겁먹은 채 바라보다 다가오는 진웅.\r\n고개가 앞으로 확 떨어지고.\r\n\r\nS/A 0140_0013",
+      "direction_lighting": null,
+      "retake_note": null,
+      "visual_statuses": [
+        {
+          "task_key": "ani_ao",
+          "label": "ANI AO",
+          "artist": "HE",
+          "status": null
+        },
+        {
+          "task_key": "cfx_cloth",
+          "label": "CFX_Cloth",
+          "artist": "none",
+          "status": "app"
+        },
+        {
+          "task_key": "fx_water",
+          "label": "FX Water",
+          "artist": "YDH\nLV1",
+          "status": null
+        },
+        {
+          "task_key": "rendering",
+          "label": "RENDERING",
+          "artist": null,
+          "status": null
+        },
+        {
+          "task_key": "compositing",
+          "label": "COMPOSITING",
+          "artist": null,
+          "status": null
+        }
+      ],
+      "shot_level": {
+        "water_level": 1,
+        "water_label": "Water LV1",
+        "duration_weight": 0.25,
+        "score": 2.25,
+        "staff_days": 0.72,
+        "lead_days": 0.52,
+        "label": "L1 Calm Water"
+      },
+      "source_sheet_title": "TRAP_0120_shotList",
+      "source_worksheet_title": "0120_Vis_Review Note"
+    }
+  ]
+}

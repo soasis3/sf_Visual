@@ -1,0 +1,1528 @@
+{
+  "spreadsheet_title": "TRAP_MAINBOARD_SCHEDULE",
+  "worksheet_title": "sceneList",
+  "scenes": [
+    {
+      "scene_code": "0150",
+      "scene_label": null,
+      "shotlist_name": "TRAP_0150_shotList",
+      "shotlist_url": "https://docs.google.com/spreadsheets/d/1AcULOWjRfRCLyXINyBouvE1rwuA7mu964cbRs4ocZTE/edit?usp=drive_link",
+      "shotlist_spreadsheet_id": "1AcULOWjRfRCLyXINyBouvE1rwuA7mu964cbRs4ocZTE",
+      "compositing_progress": 0.0,
+      "total_shots": 31,
+      "total_minutes": 1.0,
+      "total_seconds": 62.0,
+      "total_frames": 1489,
+      "shots": [
+        {
+          "shot_code": "0150_0010",
+          "duration_frames": 145,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "이 때, 물 속에 있던 진웅은\n로빈의 머리를 잡아 당긴다. \n로빈이 물에 빠지자,\n다리로 목을 감아 조르는 진웅.",
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "최혜원",
+              "status": null
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": "YDH\n3단계",
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 3,
+            "water_label": "Water LV3 + 2D FX",
+            "duration_weight": 0.75,
+            "score": 4.75,
+            "staff_days": 1.52,
+            "lead_days": 1.09,
+            "label": "L3 Hero Water"
+          },
+          "source_sheet_title": "TRAP_0150_shotList",
+          "source_worksheet_title": "0150_Vis_Review Note"
+        },
+        {
+          "shot_code": "0150_0013",
+          "duration_frames": 55,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "이 때, 물 속에 있던 진웅은\n로빈의 머리를 잡아 당긴다. \n로빈이 물에 빠지자,\n다리로 목을 감아 조르는 진웅.",
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "최혜원",
+              "status": null
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": "YDH\n2단계",
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 2,
+            "water_label": "Water LV2 + 2D FX",
+            "duration_weight": 0.25,
+            "score": 3.25,
+            "staff_days": 1.04,
+            "lead_days": 0.75,
+            "label": "L2 Splash Water"
+          },
+          "source_sheet_title": "TRAP_0150_shotList",
+          "source_worksheet_title": "0150_Vis_Review Note"
+        },
+        {
+          "shot_code": "0150_0020",
+          "duration_frames": 108,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "밖으로 얼굴을 빼서 깊은 숨을 한번 쉬고, 다시 물속으로 들어간다.",
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "최혜원",
+              "status": null
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": "YDH\n3단계",
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 3,
+            "water_label": "Water LV3 + 2D FX",
+            "duration_weight": 0.5,
+            "score": 4.5,
+            "staff_days": 1.44,
+            "lead_days": 1.04,
+            "label": "L3 Hero Water"
+          },
+          "source_sheet_title": "TRAP_0150_shotList",
+          "source_worksheet_title": "0150_Vis_Review Note"
+        },
+        {
+          "shot_code": "0150_0030",
+          "duration_frames": 58,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "4층 남자를 뒤에서 안아 조르는 진웅.",
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "최혜원",
+              "status": null
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": "YDH\n2단계",
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 2,
+            "water_label": "Water LV2 + 2D FX",
+            "duration_weight": 0.25,
+            "score": 3.25,
+            "staff_days": 1.04,
+            "lead_days": 0.75,
+            "label": "L2 Splash Water"
+          },
+          "source_sheet_title": "TRAP_0150_shotList",
+          "source_worksheet_title": "0150_Vis_Review Note"
+        },
+        {
+          "shot_code": "0150_0040",
+          "duration_frames": 70,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "양 팔로 조르고 있는 다리를 풀려 \n애쓰는 로빈.\n졸린 팔은 풀리지 않고,\n물속 소용돌이만 크게 일어난다.",
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "최혜원",
+              "status": null
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": "YDH\n2단계",
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 2,
+            "water_label": "Water LV2 + 2D FX",
+            "duration_weight": 0.25,
+            "score": 3.25,
+            "staff_days": 1.04,
+            "lead_days": 0.75,
+            "label": "L2 Splash Water"
+          },
+          "source_sheet_title": "TRAP_0150_shotList",
+          "source_worksheet_title": "0150_Vis_Review Note"
+        },
+        {
+          "shot_code": "0150_0050",
+          "duration_frames": 43,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "진웅의 멱살을 잡아 당기는 로빈.",
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "최혜원",
+              "status": null
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": "YDH\n2단계",
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 2,
+            "water_label": "Water LV2 + 2D FX",
+            "duration_weight": 0.0,
+            "score": 3.0,
+            "staff_days": 0.96,
+            "lead_days": 0.69,
+            "label": "L2 Splash Water"
+          },
+          "source_sheet_title": "TRAP_0150_shotList",
+          "source_worksheet_title": "0150_Vis_Review Note"
+        },
+        {
+          "shot_code": "0150_0060",
+          "duration_frames": 23,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "진웅의 얼굴을 주먹으로 때리는 로빈.",
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "최혜원",
+              "status": null
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": "YDH\n2단계",
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 2,
+            "water_label": "Water LV2 + 2D FX",
+            "duration_weight": 0.0,
+            "score": 3.0,
+            "staff_days": 0.96,
+            "lead_days": 0.69,
+            "label": "L2 Splash Water"
+          },
+          "source_sheet_title": "TRAP_0150_shotList",
+          "source_worksheet_title": "0150_Vis_Review Note"
+        },
+        {
+          "shot_code": "0150_0070",
+          "duration_frames": 17,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "진웅 얼굴이 찢어지며 피가 난다. \n물 속에서 퍼지는 피.\n진웅의 옷 또한 뜯어진다.",
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "최혜원",
+              "status": null
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": "YDH\n2단계",
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 2,
+            "water_label": "Water LV2 + 2D FX",
+            "duration_weight": 0.0,
+            "score": 3.0,
+            "staff_days": 0.96,
+            "lead_days": 0.69,
+            "label": "L2 Splash Water"
+          },
+          "source_sheet_title": "TRAP_0150_shotList",
+          "source_worksheet_title": "0150_Vis_Review Note"
+        },
+        {
+          "shot_code": "0150_0080",
+          "duration_frames": 34,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "코와 입으로 계속 물이 들어가자\n숨을 내쉬려 혼비백산 올라가려는 로빈.",
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "최혜원",
+              "status": null
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": "YDH\n2단계",
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 2,
+            "water_label": "Water LV2 + 2D FX",
+            "duration_weight": 0.0,
+            "score": 3.0,
+            "staff_days": 0.96,
+            "lead_days": 0.69,
+            "label": "L2 Splash Water"
+          },
+          "source_sheet_title": "TRAP_0150_shotList",
+          "source_worksheet_title": "0150_Vis_Review Note"
+        },
+        {
+          "shot_code": "0150_0090",
+          "duration_frames": 22,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "진웅은 필사적으로 그를 끌어당기며 호흡하지 못하게 막는다.",
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "최혜원",
+              "status": null
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": "YDH\n2단계",
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 2,
+            "water_label": "Water LV2 + 2D FX",
+            "duration_weight": 0.0,
+            "score": 3.0,
+            "staff_days": 0.96,
+            "lead_days": 0.69,
+            "label": "L2 Splash Water"
+          },
+          "source_sheet_title": "TRAP_0150_shotList",
+          "source_worksheet_title": "0150_Vis_Review Note"
+        },
+        {
+          "shot_code": "0150_0100",
+          "duration_frames": 10,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "물 속에서 진웅을 발로 차는 로빈.",
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "최혜원",
+              "status": null
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": "YDH\n2단계",
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 2,
+            "water_label": "Water LV2 + 2D FX",
+            "duration_weight": 0.0,
+            "score": 3.0,
+            "staff_days": 0.96,
+            "lead_days": 0.69,
+            "label": "L2 Splash Water"
+          },
+          "source_sheet_title": "TRAP_0150_shotList",
+          "source_worksheet_title": "0150_Vis_Review Note"
+        },
+        {
+          "shot_code": "0150_0110",
+          "duration_frames": 75,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "밀려나는 진웅.",
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "최혜원",
+              "status": "Review"
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": "YDH\n3단계",
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 3,
+            "water_label": "Water LV3 + 2D FX",
+            "duration_weight": 0.25,
+            "score": 4.25,
+            "staff_days": 1.36,
+            "lead_days": 0.98,
+            "label": "L3 Hero Water"
+          },
+          "source_sheet_title": "TRAP_0150_shotList",
+          "source_worksheet_title": "0150_Vis_Review Note"
+        },
+        {
+          "shot_code": "0150_0120",
+          "duration_frames": 51,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "진웅이 멀리 밀려난 틈을 타 헤엄쳐 수면 위로 올라오려 하는 로빈.",
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "설예지",
+              "status": "Review"
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": "YDH\n2단계",
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 2,
+            "water_label": "Water LV2 + 2D FX",
+            "duration_weight": 0.25,
+            "score": 3.25,
+            "staff_days": 1.04,
+            "lead_days": 0.75,
+            "label": "L2 Splash Water"
+          },
+          "source_sheet_title": "TRAP_0150_shotList",
+          "source_worksheet_title": "0150_Vis_Review Note"
+        },
+        {
+          "shot_code": "0150_0130",
+          "duration_frames": 14,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "수면에 거의 다 다다랐을 때 쯤 진웅에게 발이 잡히는 로빈.",
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "설예지",
+              "status": "Review"
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": "YDH\n2단계",
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 2,
+            "water_label": "Water LV2 + 2D FX",
+            "duration_weight": 0.0,
+            "score": 3.0,
+            "staff_days": 0.96,
+            "lead_days": 0.69,
+            "label": "L2 Splash Water"
+          },
+          "source_sheet_title": "TRAP_0150_shotList",
+          "source_worksheet_title": "0150_Vis_Review Note"
+        },
+        {
+          "shot_code": "0150_0140",
+          "duration_frames": 81,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "로빈, 수면을 코 앞에 두고 숨을 쉬려다 붙잡혀 끌려 내려간다.\n놀란 표정인 로빈의 입과 코에서 물거품이 뿜어져 나온다.",
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "설예지",
+              "status": "WIP"
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": "YDH\n2단계",
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 2,
+            "water_label": "Water LV2 + 2D FX",
+            "duration_weight": 0.25,
+            "score": 3.25,
+            "staff_days": 1.04,
+            "lead_days": 0.75,
+            "label": "L2 Splash Water"
+          },
+          "source_sheet_title": "TRAP_0150_shotList",
+          "source_worksheet_title": "0150_Vis_Review Note"
+        },
+        {
+          "shot_code": "0150_0150",
+          "duration_frames": 66,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "피흘리는 진웅의 얼굴을 밀어내며 수면 위로 올라가려는 로빈.",
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "설예지",
+              "status": "WIP"
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": "YDH\n2단계",
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 2,
+            "water_label": "Water LV2 + 2D FX",
+            "duration_weight": 0.25,
+            "score": 3.25,
+            "staff_days": 1.04,
+            "lead_days": 0.75,
+            "label": "L2 Splash Water"
+          },
+          "source_sheet_title": "TRAP_0150_shotList",
+          "source_worksheet_title": "0150_Vis_Review Note"
+        },
+        {
+          "shot_code": "0150_0160",
+          "duration_frames": 46,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "수면 아래 다시 뒤엉켜 싸우는 두 사람. \n손으로 로빈의 발을 잡고, 거꾸로 몸을 돌려 다리로 로빈의 몸을 감아 잡는 진웅.",
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "설예지",
+              "status": "WIP"
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": "YDH\n2단계",
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 2,
+            "water_label": "Water LV2 + 2D FX",
+            "duration_weight": 0.0,
+            "score": 3.0,
+            "staff_days": 0.96,
+            "lead_days": 0.69,
+            "label": "L2 Splash Water"
+          },
+          "source_sheet_title": "TRAP_0150_shotList",
+          "source_worksheet_title": "0150_Vis_Review Note"
+        },
+        {
+          "shot_code": "0150_0170",
+          "duration_frames": 100,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "숨이 한계에 다다른 로빈. 물거품을 뿜으며 의식을 잃는다.",
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "설예지",
+              "status": "WIP"
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": "YDH\n3단계",
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 3,
+            "water_label": "Water LV3 + 2D FX",
+            "duration_weight": 0.5,
+            "score": 4.5,
+            "staff_days": 1.44,
+            "lead_days": 1.04,
+            "label": "L3 Hero Water"
+          },
+          "source_sheet_title": "TRAP_0150_shotList",
+          "source_worksheet_title": "0150_Vis_Review Note"
+        },
+        {
+          "shot_code": "0150_0180",
+          "duration_frames": 400,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": "같이 물거품을 뿜으며 고통스러워하는 진웅.",
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "안혜진",
+              "status": null
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.75,
+            "score": 1.75,
+            "staff_days": 0.56,
+            "lead_days": 0.4,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0150_shotList",
+          "source_worksheet_title": "0150_Vis_Review Note"
+        },
+        {
+          "shot_code": "0150_0190",
+          "duration_frames": null,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": null,
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "설예지",
+              "status": null
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": "YDH\n3단계",
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 3,
+            "water_label": "Water LV3 + 2D FX",
+            "duration_weight": 0.0,
+            "score": 4.0,
+            "staff_days": 1.28,
+            "lead_days": 0.92,
+            "label": "L3 Hero Water"
+          },
+          "source_sheet_title": "TRAP_0150_shotList",
+          "source_worksheet_title": "0150_Vis_Review Note"
+        },
+        {
+          "shot_code": "0150_0220",
+          "duration_frames": 76,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": null,
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "안혜진",
+              "status": null
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "staff_days": 0.4,
+            "lead_days": 0.29,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0150_shotList",
+          "source_worksheet_title": "0150_Vis_Review Note"
+        },
+        {
+          "shot_code": "0150_0230",
+          "duration_frames": 110,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": null,
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "안혜진",
+              "status": null
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.5,
+            "score": 1.5,
+            "staff_days": 0.48,
+            "lead_days": 0.35,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0150_shotList",
+          "source_worksheet_title": "0150_Vis_Review Note"
+        },
+        {
+          "shot_code": "0150_0240",
+          "duration_frames": 55,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": null,
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "안혜진",
+              "status": null
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "staff_days": 0.4,
+            "lead_days": 0.29,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0150_shotList",
+          "source_worksheet_title": "0150_Vis_Review Note"
+        },
+        {
+          "shot_code": "0150_0241",
+          "duration_frames": 70,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": null,
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "안혜진",
+              "status": null
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "staff_days": 0.4,
+            "lead_days": 0.29,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0150_shotList",
+          "source_worksheet_title": "0150_Vis_Review Note"
+        },
+        {
+          "shot_code": "0150_0242",
+          "duration_frames": 110,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": null,
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "안혜진",
+              "status": null
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.5,
+            "score": 1.5,
+            "staff_days": 0.48,
+            "lead_days": 0.35,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0150_shotList",
+          "source_worksheet_title": "0150_Vis_Review Note"
+        },
+        {
+          "shot_code": "0150_0250",
+          "duration_frames": 182,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": null,
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "안혜진",
+              "status": null
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.75,
+            "score": 1.75,
+            "staff_days": 0.56,
+            "lead_days": 0.4,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0150_shotList",
+          "source_worksheet_title": "0150_Vis_Review Note"
+        },
+        {
+          "shot_code": "0150_0251",
+          "duration_frames": 100,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": null,
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "안혜진",
+              "status": null
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.5,
+            "score": 1.5,
+            "staff_days": 0.48,
+            "lead_days": 0.35,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0150_shotList",
+          "source_worksheet_title": "0150_Vis_Review Note"
+        },
+        {
+          "shot_code": "0150_0252",
+          "duration_frames": 125,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": null,
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "안혜진",
+              "status": null
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": "YDH\n3단계",
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 3,
+            "water_label": "Water LV3 + 2D FX",
+            "duration_weight": 0.5,
+            "score": 4.5,
+            "staff_days": 1.44,
+            "lead_days": 1.04,
+            "label": "L3 Hero Water"
+          },
+          "source_sheet_title": "TRAP_0150_shotList",
+          "source_worksheet_title": "0150_Vis_Review Note"
+        },
+        {
+          "shot_code": "0150_0260",
+          "duration_frames": 71,
+          "preview_image_url": null,
+          "cam": null,
+          "shot_description": null,
+          "direction_lighting": null,
+          "retake_note": null,
+          "visual_statuses": [
+            {
+              "task_key": "ani_ao",
+              "label": "ANI AO",
+              "artist": "설예지",
+              "status": "APP"
+            },
+            {
+              "task_key": "cfx_cloth",
+              "label": "CFX_Cloth",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "fx_water",
+              "label": "FX Water",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "rendering",
+              "label": "RENDERING",
+              "artist": null,
+              "status": null
+            },
+            {
+              "task_key": "compositing",
+              "label": "COMPOSITING",
+              "artist": null,
+              "status": null
+            }
+          ],
+          "shot_level": {
+            "water_level": 0,
+            "water_label": "Normal Render",
+            "duration_weight": 0.25,
+            "score": 1.25,
+            "staff_days": 0.4,
+            "lead_days": 0.29,
+            "label": "L0 Normal"
+          },
+          "source_sheet_title": "TRAP_0150_shotList",
+          "source_worksheet_title": "0150_Vis_Review Note"
+        }
+      ]
+    }
+  ]
+}
