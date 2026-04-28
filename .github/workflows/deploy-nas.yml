@@ -12,6 +12,9 @@ jobs:
     permissions:
       contents: read
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Configure SSH key
         run: |
           mkdir -p ~/.ssh
@@ -22,6 +25,14 @@ jobs:
         run: |
           ssh-keyscan -p "${{ secrets.NAS_PORT }}" "${{ secrets.NAS_HOST }}" >> ~/.ssh/known_hosts
 
+      - name: Sync repository to NAS
+        run: |
+          rsync -az --delete \
+            --exclude ".git" \
+            --exclude "backend/.env" \
+            -e "ssh -i ~/.ssh/id_ed25519 -p ${{ secrets.NAS_PORT }}" \
+            ./ "${{ secrets.NAS_USER }}@${{ secrets.NAS_HOST }}:/volume1/MACARON/RND/SFtools/sfShotManager/app/sfVisual_git/"
+
       - name: Deploy on NAS
         run: |
           ssh -i ~/.ssh/id_ed25519 -p "${{ secrets.NAS_PORT }}" "${{ secrets.NAS_USER }}@${{ secrets.NAS_HOST }}" <<EOF
@@ -30,21 +41,6 @@ jobs:
           DEPLOY_DIR="/volume1/MACARON/RND/SFtools/sfShotManager/app/sfVisual_git"
 
           cd "\$DEPLOY_DIR"
-          if command -v git >/dev/null 2>&1; then
-            GIT_CMD="git"
-          elif [ -x /usr/local/git/bin/git ]; then
-            GIT_CMD="/usr/local/git/bin/git"
-          elif [ -x /usr/local/bin/git ]; then
-            GIT_CMD="/usr/local/bin/git"
-          elif [ -x /usr/bin/git ]; then
-            GIT_CMD="/usr/bin/git"
-          else
-            echo "Git command not found on NAS" >&2
-            exit 127
-          fi
-
-          "\$GIT_CMD" pull origin master
-
           if command -v docker-compose >/dev/null 2>&1; then
             COMPOSE_CMD="docker-compose"
           elif [ -x /usr/local/bin/docker-compose ]; then
