@@ -11,8 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: read
-    env:
-      NAS_DEPLOY_DIR: /volume1/MACARON/RND/SFtools/sfShotManager/app/sfVisual_git
     steps:
       - name: Configure SSH key
         run: |
@@ -26,10 +24,28 @@ jobs:
 
       - name: Deploy on NAS
         run: |
-          ssh -i ~/.ssh/id_ed25519 -p "${{ secrets.NAS_PORT }}" "${{ secrets.NAS_USER }}@${{ secrets.NAS_HOST }}" <<'EOF'
-          set -e
-          cd "${NAS_DEPLOY_DIR}"
+          ssh -i ~/.ssh/id_ed25519 -p "${{ secrets.NAS_PORT }}" "${{ secrets.NAS_USER }}@${{ secrets.NAS_HOST }}" <<EOF
+          set -eu
+          export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+          DEPLOY_DIR="/volume1/MACARON/RND/SFtools/sfShotManager/app/sfVisual_git"
+
+          cd "\$DEPLOY_DIR"
           git pull origin master
-          sudo docker-compose up -d --build
-          sudo docker-compose ps
+
+          if command -v docker-compose >/dev/null 2>&1; then
+            COMPOSE_CMD="docker-compose"
+          elif docker compose version >/dev/null 2>&1; then
+            COMPOSE_CMD="docker compose"
+          else
+            echo "Docker Compose command not found on NAS" >&2
+            exit 127
+          fi
+
+          if sudo -n true >/dev/null 2>&1; then
+            sudo -n \$COMPOSE_CMD up -d --build
+            sudo -n \$COMPOSE_CMD ps
+          else
+            \$COMPOSE_CMD up -d --build
+            \$COMPOSE_CMD ps
+          fi
           EOF
