@@ -18,24 +18,38 @@ jobs:
       - name: Configure SSH key
         run: |
           mkdir -p ~/.ssh
-          printf '%s\n' "${{ secrets.NAS_SSH_KEY }}" > ~/.ssh/id_ed25519
+          cat > ~/.ssh/id_ed25519 <<'KEY'
+          ${{ secrets.NAS_SSH_KEY }}
+          KEY
+          perl -0pi -e 's/\r\n/\n/g' ~/.ssh/id_ed25519
           chmod 600 ~/.ssh/id_ed25519
+          ssh-keygen -y -f ~/.ssh/id_ed25519 > /dev/null
 
       - name: Trust NAS host key
         run: |
           ssh-keyscan -p "${{ secrets.NAS_PORT }}" "${{ secrets.NAS_HOST }}" >> ~/.ssh/known_hosts
+
+      - name: Test SSH authentication
+        run: |
+          ssh \
+            -o BatchMode=yes \
+            -o IdentitiesOnly=yes \
+            -i ~/.ssh/id_ed25519 \
+            -p "${{ secrets.NAS_PORT }}" \
+            "${{ secrets.NAS_USER }}@${{ secrets.NAS_HOST }}" \
+            "echo connected"
 
       - name: Sync repository to NAS
         run: |
           rsync -az --delete \
             --exclude ".git" \
             --exclude "backend/.env" \
-            -e "ssh -i ~/.ssh/id_ed25519 -p ${{ secrets.NAS_PORT }}" \
+            -e "ssh -o BatchMode=yes -o IdentitiesOnly=yes -i ~/.ssh/id_ed25519 -p ${{ secrets.NAS_PORT }}" \
             ./ "${{ secrets.NAS_USER }}@${{ secrets.NAS_HOST }}:/volume1/MACARON/RND/SFtools/sfShotManager/app/sfVisual_git/"
 
       - name: Deploy on NAS
         run: |
-          ssh -i ~/.ssh/id_ed25519 -p "${{ secrets.NAS_PORT }}" "${{ secrets.NAS_USER }}@${{ secrets.NAS_HOST }}" <<EOF
+          ssh -o BatchMode=yes -o IdentitiesOnly=yes -i ~/.ssh/id_ed25519 -p "${{ secrets.NAS_PORT }}" "${{ secrets.NAS_USER }}@${{ secrets.NAS_HOST }}" <<EOF
           set -eu
           export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
           DEPLOY_DIR="/volume1/MACARON/RND/SFtools/sfShotManager/app/sfVisual_git"
