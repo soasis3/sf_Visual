@@ -49,14 +49,14 @@ jobs:
         env:
           SSHPASS: ${{ secrets.NAS_PASSWORD }}
         run: |
-          sshpass -e scp \
+          sshpass -e ssh \
             -o PreferredAuthentications=keyboard-interactive,password \
             -o KbdInteractiveAuthentication=yes \
             -o NumberOfPasswordPrompts=1 \
             -o PubkeyAuthentication=no \
-            -P "${{ secrets.NAS_PORT }}" \
-            /tmp/sfvisual-deploy.tgz \
-            "${{ secrets.NAS_USER }}@${{ secrets.NAS_HOST }}:/tmp/sfvisual-deploy.tgz"
+            -p "${{ secrets.NAS_PORT }}" \
+            "${{ secrets.NAS_USER }}@${{ secrets.NAS_HOST }}" \
+            "cat > /tmp/sfvisual-deploy.tgz" < /tmp/sfvisual-deploy.tgz
 
       - name: Deploy on NAS
         env:
