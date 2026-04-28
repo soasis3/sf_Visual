@@ -20,6 +20,7 @@ jobs:
 
       - name: Trust NAS host key
         run: |
+          mkdir -p ~/.ssh
           ssh-keyscan -p "${{ secrets.NAS_PORT }}" "${{ secrets.NAS_HOST }}" >> ~/.ssh/known_hosts
 
       - name: Test SSH authentication
