@@ -33,7 +33,8 @@ projects = {
     "ARBO_BION": "A:/",
     "CKR": "K:/",
     "DSC": "S:/",
-    "FUZZ": "Z:/"    
+    "FUZZ": "Z:/",
+    "COC": "S:/PROJECT/COC/02_Production"
 }
 
 ppPath = 'M:/RND/SFtools/2023/pipeline/'
@@ -212,6 +213,9 @@ def aniPublish():
 def get_current_project():
     """현재 열려있는 파일의 경로를 기반으로 프로젝트를 결정합니다."""
     file_path = cmds.file(query=True, sceneName=True)
+    normalized = os.path.normcase(os.path.normpath(file_path or ""))
+    if "project\\coc\\02_production" in normalized:
+        return 'COC'
     drive = os.path.splitdrive(file_path)[0].upper()  # 드라이브 문자를 추출하고 대문자로 변환
     if drive == 'A:':
         return 'ARBO_BION'
@@ -237,7 +241,8 @@ def get_project_paths():
         'BTS': "B:\\",        
         'CKR': "K:\\",
         'DSC': "S:\\",
-        'FUZZ': "Z:\\"        
+        'FUZZ': "Z:\\",
+        'COC': "S:\\PROJECT\\COC\\02_Production"
     }
     project_path = paths.get(current_project, "")
     return project_path
@@ -249,7 +254,8 @@ def get_project_path():
         'ARBO_BION': "A:\\",
         'CKR': "K:\\",        
         'DSC': "S:\\",
-        'FUZZ': "Z:\\"
+        'FUZZ': "Z:\\",
+        'COC': "S:\\PROJECT\\COC\\02_Production"
     }
     return paths
 
@@ -274,6 +280,8 @@ def get_project_prefix():
     }
 
     project_prefix = prefixes.get(current_project, "dsc")
+    if current_project == "COC":
+        return "COC"
 
     # 🔹 현재 씬 이름에서 프로젝트명 감지 (대소문자 무시)
     scene_path = cmds.file(query=True, sceneName=True)
@@ -296,8 +304,65 @@ def set_current_project(project):
     global current_project
     current_project = project
 
+def is_coc_project(project_name=None):
+    return (project_name or current_project) == "COC"
+
+def get_coc_scene_root():
+    return os.path.normpath(os.path.join(get_project_paths(), "Animation", "Detail"))
+
+def get_coc_render_root():
+    return os.path.normpath(os.path.join(get_project_paths(), "Rendering"))
+
+def parse_scene_cut_from_filename(file_path):
+    base_name = os.path.splitext(os.path.basename(file_path))[0]
+    coc_match = re.search(r"(C\d+)[_-](\d+)", base_name, re.IGNORECASE)
+    if coc_match:
+        return coc_match.group(1), coc_match.group(2)
+    parts = base_name.split("_")
+    if len(parts) >= 3:
+        return parts[1], parts[2]
+    return "N/A", "N/A"
+
+def get_coc_browser_context(file_path):
+    normalized_path = os.path.normpath(file_path)
+    file_name = os.path.basename(normalized_path)
+    process = "maya"
+    episode_name = "N/A"
+    try:
+        relative_parts = os.path.relpath(normalized_path, get_coc_scene_root()).split(os.sep)
+        if relative_parts:
+            episode_name = relative_parts[0]
+        if len(relative_parts) >= 2:
+            process = relative_parts[1]
+    except Exception:
+        pass
+    return episode_name, "N/A", process, file_name
+
+def get_coc_episode_name(file_path=None):
+    file_path = file_path or cmds.file(q=True, sn=True)
+    if not file_path:
+        return "N/A"
+    episode_name, _, _, _ = get_coc_browser_context(file_path)
+    return episode_name
+
+def get_cache_dir_path(scene_number, cut_number):
+    if is_coc_project():
+        episode_name = get_coc_episode_name()
+        cut_folder = str(scene_number or "N/A")
+        if cut_number and cut_number != "N/A":
+            cut_folder = f"{scene_number}_{cut_number}"
+        return os.path.normpath(os.path.join(get_coc_render_root(), episode_name, cut_folder, "cache"))
+    return os.path.normpath(os.path.join(get_project_paths(), "scenes", scene_number, cut_number, "ren", "cache"))
+
+def get_scene_work_path(scene_name, cut_name, process_name):
+    if is_coc_project():
+        return os.path.normpath(os.path.join(get_coc_scene_root(), scene_name, process_name))
+    return os.path.normpath(os.path.join(get_project_paths(), "scenes", scene_name, cut_name, process_name))
+
 # 파일 경로 분석 함수
 def parse_file_path(file_path):
+    if is_coc_project():
+        return get_coc_browser_context(file_path)
     normalized_path = os.path.normpath(file_path)
     path_parts = normalized_path.split(os.sep)
     if len(path_parts) < 6:
@@ -310,6 +375,9 @@ def parse_file_path(file_path):
 
 # 파일 유효성 검사 함수
 def is_valid_scene_file(file_path):
+    if is_coc_project():
+        normalized_file_path = os.path.normpath(file_path)
+        return normalized_file_path.startswith(get_coc_scene_root()) and file_path.lower().endswith((".ma", ".mb"))
     try:
         scene_number, cut_number, process, file_name = parse_file_path(file_path)
     except ValueError as e:
@@ -360,7 +428,7 @@ def update_scenes(*args):
     clear_option_menu('fileMenu')
 
     if project_path:
-        scenes_path = os.path.join(project_path, 'scenes')
+        scenes_path = get_coc_scene_root() if is_coc_project() else os.path.join(project_path, 'scenes')
         scenes = sorted(filter_folders(os.listdir(scenes_path)))
         if scenes:
             for scene in scenes:
@@ -381,13 +449,17 @@ def update_cuts(*args, selected_scene=None):
     clear_option_menu('fileMenu')
 
     if project_path and current_scene and current_scene != 'No scenes available':
-        cuts = sorted(filter_folders(os.listdir(os.path.join(project_path, 'scenes', current_scene))))
-        if cuts:
-            for cut in cuts:
-                cmds.menuItem(parent='cutMenu', label=cut)
-            update_processes(selected_cut=None)
+        if is_coc_project():
+            cmds.menuItem(parent='cutMenu', label='N/A')
+            update_processes(selected_cut='N/A')
         else:
-            cmds.menuItem(parent='cutMenu', label='No cuts available')
+            cuts = sorted(filter_folders(os.listdir(os.path.join(project_path, 'scenes', current_scene))))
+            if cuts:
+                for cut in cuts:
+                    cmds.menuItem(parent='cutMenu', label=cut)
+                update_processes(selected_cut=None)
+            else:
+                cmds.menuItem(parent='cutMenu', label='No cuts available')
 
 def incremental_save():
     change_description = cmds.textField(changeDescriptionField, query=True, text=True)  # 텍스트 필드의 내용을 가져옵니다.
@@ -435,17 +507,21 @@ def update_processes(*args, selected_cut=None):
     clear_option_menu('fileMenu')
     
     if project_path and current_scene and current_cut and current_scene != 'No scenes available' and current_cut != 'No cuts available':
-        processes_path = os.path.join(project_path, 'scenes', current_scene, current_cut)
-        if os.path.exists(processes_path):
-            processes = sorted([d for d in os.listdir(processes_path) if os.path.isdir(os.path.join(processes_path, d))])
-            if processes:
-                for process in processes:
-                    cmds.menuItem(parent='processMenu', label=process)
-                update_files(selected_process=None)
+        if is_coc_project():
+            cmds.menuItem(parent='processMenu', label='maya')
+            update_files(selected_process='maya')
+        else:
+            processes_path = os.path.join(project_path, 'scenes', current_scene, current_cut)
+            if os.path.exists(processes_path):
+                processes = sorted([d for d in os.listdir(processes_path) if os.path.isdir(os.path.join(processes_path, d))])
+                if processes:
+                    for process in processes:
+                        cmds.menuItem(parent='processMenu', label=process)
+                    update_files(selected_process=None)
+                else:
+                    cmds.menuItem(parent='processMenu', label='No processes available')
             else:
                 cmds.menuItem(parent='processMenu', label='No processes available')
-        else:
-            cmds.menuItem(parent='processMenu', label='No processes available')
 
 def update_files(*args, selected_process=None):
     global current_project
@@ -473,10 +549,10 @@ def update_files(*args, selected_process=None):
         # ✅ 일반 프로세스 처리
         if project_path and current_scene and current_cut and current_process and \
            current_scene != 'No scenes available' and current_cut != 'No cuts available' and current_process != 'No processes available':
-            files_path = os.path.join(project_path, 'scenes', current_scene, current_cut, current_process)
+            files_path = get_scene_work_path(current_scene, current_cut, current_process)
             if os.path.exists(files_path):
                 files = sorted(
-                    [f for f in os.listdir(files_path) if os.path.isfile(os.path.join(files_path, f)) and f.endswith('.mb')],
+                    [f for f in os.listdir(files_path) if os.path.isfile(os.path.join(files_path, f)) and f.lower().endswith(('.ma', '.mb'))],
                     key=lambda f: os.path.getmtime(os.path.join(files_path, f)),
                     reverse=True
                 )
@@ -539,7 +615,7 @@ def open_selected_file(*args):
     selected_file = cmds.optionMenu('fileMenu', query=True, value=True)
     
     if project_path and current_scene and current_cut and current_process and selected_file and selected_file != 'No files available':
-        file_path = os.path.join(project_path, 'scenes', current_scene, current_cut, current_process, selected_file)
+        file_path = os.path.join(get_scene_work_path(current_scene, current_cut, current_process), selected_file)
         if os.path.exists(file_path):
             cmds.file(file_path, open=True, force=True)
             
@@ -553,7 +629,7 @@ def load_selected_asset(action):
     selected_file = cmds.optionMenu('fileMenu', query=True, value=True)
 
     if project_path and current_scene and current_cut and current_process and selected_file:
-        file_path = os.path.join(project_path, 'scenes', current_scene, current_cut, current_process, selected_file)
+        file_path = os.path.join(get_scene_work_path(current_scene, current_cut, current_process), selected_file)
         if os.path.exists(file_path):
             if action == "open":
                 cmds.file(file_path, o=True, force=True, ignoreVersion=True)
@@ -651,6 +727,8 @@ def get_scene_cut_camera():
 
 def get_scene_and_cut():
     file_path = cmds.file(q=True, sn=True)
+    if is_coc_project():
+        return parse_scene_cut_from_filename(file_path)
     file_name = file_path.split("/")[-1]
     parts = file_name.split("_")
     if len(parts) >= 4:
@@ -664,9 +742,8 @@ def get_scene_and_cut():
 scene_number, cut_number = get_scene_and_cut()
 
 def get_export_status(asset_name, category, scene_number, cut_number):
-    base_path = get_project_paths()
     project_prefix = get_project_prefix()
-    cache_dir = os.path.join(base_path, "scenes", scene_number, cut_number, "ren", "cache")
+    cache_dir = get_cache_dir_path(scene_number, cut_number)
 
     if category == 'cam':
         paths = [
@@ -693,9 +770,8 @@ def get_export_status(asset_name, category, scene_number, cut_number):
 
 
 def get_camera_export_status(scene_number, cut_number):
-    base_path = get_project_paths()
     project_prefix = get_project_prefix()
-    export_path = os.path.join(base_path, "scenes", scene_number, cut_number, "ren", "cache", f"{project_prefix}_{scene_number}_{cut_number}_cam.fbx")
+    export_path = os.path.join(get_cache_dir_path(scene_number, cut_number), f"{project_prefix}_{scene_number}_{cut_number}_cam.fbx")
     if os.path.exists(export_path):
         mod_time = os.path.getmtime(export_path)
         formatted_date = time.strftime("%y%m%d", time.localtime(mod_time))
@@ -705,8 +781,7 @@ def get_camera_export_status(scene_number, cut_number):
         return False, None
 
 def open_cache_folder(scene_number, cut_number):
-    base_path = get_project_paths()
-    cache_folder_path = os.path.join(base_path, "scenes", scene_number, cut_number, "ren", "cache")
+    cache_folder_path = get_cache_dir_path(scene_number, cut_number)
     if os.path.exists(cache_folder_path):
         subprocess.Popen(f'explorer "{cache_folder_path}"')
     else:
@@ -720,7 +795,7 @@ def open_scene_folder():
     current_process = cmds.optionMenu('processMenu', query=True, value=True)
     selected_file = cmds.optionMenu('fileMenu', query=True, value=True)
     if project_path and current_scene and current_cut and current_process and selected_file:
-        file_folder = os.path.join(project_path, 'scenes', current_scene, current_cut, current_process)
+        file_folder = get_scene_work_path(current_scene, current_cut, current_process)
         if os.path.exists(file_folder):
             if os.name == 'nt':  # If the operating system is Windows
                 subprocess.Popen(f'explorer "{file_folder}"')
@@ -1008,7 +1083,7 @@ def export_alembic(character_name, character_geo, scene_number, cut_number):
             return False
         duplicated = cmds.duplicate(rr=True, ic=True)[0]
         base_path = get_project_paths()
-        export_path = os.path.join(base_path, "scenes", str(scene_number), str(cut_number), "ren", "cache")
+        export_path = get_cache_dir_path(str(scene_number), str(cut_number))
         if not os.path.exists(export_path):
             os.makedirs(export_path)
         project_prefix = get_project_prefix()
@@ -1086,7 +1161,7 @@ def export_selected_to_usd():
             cmds.bakeResults(duplicated, t=(minTime, maxTime), shape=True)
             cmds.file(local_file_path, force=True, options=usd_options, type="USD Export", pr=True, es=True)
 
-            network_path = os.path.join(get_project_paths(), "scenes", scene_number, cut_number, "ren", "cache")
+            network_path = get_cache_dir_path(scene_number, cut_number)
             os.makedirs(network_path, exist_ok=True)
             shutil.copy(local_file_path, os.path.join(network_path, file_name))
             os.remove(local_file_path)
@@ -1337,7 +1412,7 @@ def export_usd(character_name, character_group, scene_number, cut_number, minTim
                     pass
 
             # 네트워크 복사/정리
-            network_path = os.path.normpath(os.path.join(get_project_paths(), "scenes", scene_number, cut_number, "ren", "cache"))
+            network_path = get_cache_dir_path(scene_number, cut_number)
             dst_path = os.path.normpath(os.path.join(network_path, file_name))
             os.makedirs(network_path, exist_ok=True)
             shutil.copy(local_file_path, dst_path)
@@ -1541,7 +1616,7 @@ def export_usd_prop(scene_number, cut_number, prop_name, prop_group):
                 mel.eval(f'catch(`file -force -options "{usd_options}" -typ "USD Export" -pr -es "{usd_path}"`);')
 
             # 네트워크 캐시에 복사
-            network_path = os.path.normpath(os.path.join(get_project_paths(), "scenes", scene_number, cut_number, "ren", "cache"))
+            network_path = get_cache_dir_path(scene_number, cut_number)
             os.makedirs(network_path, exist_ok=True)
             dst_usd = os.path.join(network_path, file_name)
             shutil.copy(local_usd, dst_usd)
@@ -1681,7 +1756,7 @@ def export_usd_bg(bg_name, bg_geo, scene_number, cut_number, selected_only=False
                 if cmds.objExists("geo"):
                     cmds.delete("geo")
 
-                network_path = os.path.normpath(os.path.join(get_project_paths(), "scenes", scene_number, cut_number, "ren", "cache"))
+                network_path = get_cache_dir_path(scene_number, cut_number)
                 os.makedirs(network_path, exist_ok=True)
                 dst_path = os.path.normpath(os.path.join(network_path, file_name))
                 shutil.copy(local_file_path, dst_path)
